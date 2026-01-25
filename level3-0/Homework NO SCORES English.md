@@ -73,13 +73,13 @@ And (they/she) bought a small bar of soap.
 
 Mother told Noi-Naa to wait for her at the playground, and...
 
-|**Thai Word**|**Phonetic**|**Meaning**|**Usage & Context**|**Level**|**Example Sentence**|**Synonyms**|
-|---|---|---|---|---|---|---|
-|**น้อยหน่า**|_Noi-naa_|Sugar Apple / (Name)|A common Thai nickname for females.|Neutral|**น้อยหน่า**ไปโรงเรียน (_Noi-naa bpai rohng-rian_)|N/A|
-|**เจอ**|_Jer_|To meet / To find|Used for bumping into someone or finding a lost object.|Casual/Neutral|ผม**เจอ**เพื่อนที่ห้าง (_Phom jer pheuan thee haang_)|พบ (_Phop_) - Formal|
-|**ป้า**|_Paa_|Auntie|Older sister of a parent. Also used for any middle-aged woman.|Neutral/Family|**ป้า**ขายส้มตำอร่อย (_Paa khaay som-dtam a-roy_)|น้า (_Naa_), อา (_Aa_)|
-|**คนกวาดขยะ**|_Khon-gwaat-kha-ya_|Street sweeper|**Khon** (person) + **Gwaat** (sweep) + **Kha-ya** (trash).|Neutral|**คนกวาดขยะ**ทำงานเหนื่อย (_Khon-gwaat-kha-ya tham-ngaan neuy_)|พนักงานรักษาความสะอาด|
-|**ที่นั่น**|_Thee-nan_|There|Refers to a place away from the speaker.|Neutral|วางไว้**ที่นั่น**ครับ (_Waang wai thee-nan krap_)|ตรงนั้น (_Dtrong-nan_)|
+| **Thai Word** | **Phonetic**        | **Meaning**          | **Usage & Context**                                            | **Level**      | **Example Sentence**                                            | **Synonyms**           |
+| ------------- | ------------------- | -------------------- | -------------------------------------------------------------- | -------------- | --------------------------------------------------------------- | ---------------------- |
+| **น้อยหน่า**  | _Noi-naa_           | Sugar Apple / (Name) | A common Thai nickname for females.                            | Neutral        | **น้อยหน่า**ไปโรงเรียน (_Noi-naa bpai rohng-rian_)              | N/A                    |
+| **เจอ**       | _Jer_               | To meet / To find    | Used for bumping into someone or finding a lost object.        | Casual/Neutral | ผม**เจอ**เพื่อนที่ห้าง (_Phom jer pheuan thee haang_)           | พบ (_Phop_) - Formal   |
+| **ป้า**       | _Paa_               | Auntie               | Older sister of a parent. Also used for any middle-aged woman. | Neutral/Family | **ป้า**ขายส้มตำอร่อย (_Paa khaay som-dtam a-roy_)               | น้า (_Naa_), อา (_Aa_) |
+| **คนกวาดขยะ** | _Khon-gwaat-kha-ya_ | Street sweeper       | **Khon** (person) + **Gwaat** (sweep) + **Kha-ya** (trash).    | Neutral        | **คนกวาดขยะ**ทำงานเหนื่อย (_Khon-gwaat-kha-ya tham-ngaan neuy_) | พนักงานรักษาความสะอาด  |
+| **ที่นั่น**   | _Thee-nan_          | There                | Refers to a place away from the speaker.                       | Neutral        | วางไว้**ที่นั่น**ครับ (_Waang wai thee-nan krap_)               | ตรงนั้น (_Dtrong-nan_) |
 
 Noina met the auntie who sweeps the street there.
 
@@ -102,17 +102,17 @@ The auntie told Noina that Noina is a clever and lovely child.
 | **สถานีตำรวจ** | _Sa-thaa-nee-dtam-ruat_ | Police station     | คำเรียกสถานที่ราชการตำรวจ                          | ทั่วไป/ทางการ | **สถานีตำรวจ**ไปทางไหน? (_Sa-thaa-nee-dtam-ruat bpai thang nai?_) | โรงพัก (ภาษาปาก)        |
 The auntie's house is next to the police station.
 
-|**Thai Word**|**Phonetic**|**Meaning**|**Usage & Context**|**Level**|**Example Sentence**|**Synonyms**|
-|---|---|---|---|---|---|---|
-|**เล่า**|_Lao_|To tell / Relate|Used for stories, experiences, or news.|Neutral|**เล่า**เรื่องตลกให้ฟังหน่อย (_Lao rueang dta-lok hai fang noy_)|บอก (_Bawk_)|
-|**ให้ฟัง**|_Hai-fang_|(For someone) to listen|Added after "tell" or "read" to show you are sharing it with an audience.|Neutral|ผมจะอ่าน**ให้ฟัง**ครับ (_Phom ja aan hai-fang krap_)|N/A|
-|**เขา**|_Khao_|He / She / They|A third-person pronoun. In this context, it refers to the Auntie.|Neutral|**เขา**ใจดีมาก (_Khao jai-dee maak_)|ท่าน (Formal)|
-|**เห็น**|_Hen_|To see|Used for the physical act of seeing or witnessing.|Neutral|คุณ**เห็น**นั่นไหม? (_Khun hen nan mai?_)|มองดู (_Mong-doo_)|
-|**ตำรวจ**|_Dtam-ruat_|Police|The general term for police officers.|Neutral|**ตำรวจ**ใส่ชุดสีขี้ม้า (_Dtam-ruat sai chut see khee-maa_)|ผู้หมวด, จ่า (Ranks)|
-|**จับ**|_Jap_|To catch / Arrest / Hold|Can mean catching a ball or arresting a criminal.|Neutral|แมว**จับ**หนู (_Maew jap noo_)|จับกุม (Formal)|
-|**ขโมย**|_Kha-moy_|Thief / To steal|Can be a noun (thief) or a verb (to steal).|Neutral|**ขโมย**ขึ้นบ้าน (_Kha-moy khuen baan_)|โจร (_Jorn_)|
-|**ได้**|_Dai_|Can / Could / Did|Here it indicates a completed action (successful catch).|Neutral|ผมทำ**ได้**! (_Phom tham dai!_)|สามารถ (_Saa-maat_)|
-|**บ่อยๆ**|_Boy-boy_|Often / Frequently|Reduplication of "Boy" makes it sound more casual and natural.|Casual/Neutral|ผมมาที่นี่**บ่อยๆ** (_Phom maa thee-nee boy-boy_)|เป็นประจำ (_Bpen bpra-jam_)|
+| **Thai Word** | **Phonetic** | **Meaning**              | **Usage & Context**                                                       | **Level**      | **Example Sentence**                                             | **Synonyms**                |
+| ------------- | ------------ | ------------------------ | ------------------------------------------------------------------------- | -------------- | ---------------------------------------------------------------- | --------------------------- |
+| **เล่า**      | _Lao_        | To tell / Relate         | Used for stories, experiences, or news.                                   | Neutral        | **เล่า**เรื่องตลกให้ฟังหน่อย (_Lao rueang dta-lok hai fang noy_) | บอก (_Bawk_)                |
+| **ให้ฟัง**    | _Hai-fang_   | (For someone) to listen  | Added after "tell" or "read" to show you are sharing it with an audience. | Neutral        | ผมจะอ่าน**ให้ฟัง**ครับ (_Phom ja aan hai-fang krap_)             | N/A                         |
+| **เขา**       | _Khao_       | He / She / They          | A third-person pronoun. In this context, it refers to the Auntie.         | Neutral        | **เขา**ใจดีมาก (_Khao jai-dee maak_)                             | ท่าน (Formal)               |
+| **เห็น**      | _Hen_        | To see                   | Used for the physical act of seeing or witnessing.                        | Neutral        | คุณ**เห็น**นั่นไหม? (_Khun hen nan mai?_)                        | มองดู (_Mong-doo_)          |
+| **ตำรวจ**     | _Dtam-ruat_  | Police                   | The general term for police officers.                                     | Neutral        | **ตำรวจ**ใส่ชุดสีขี้ม้า (_Dtam-ruat sai chut see khee-maa_)      | ผู้หมวด, จ่า (Ranks)        |
+| **จับ**       | _Jap_        | To catch / Arrest / Hold | Can mean catching a ball or arresting a criminal.                         | Neutral        | แมว**จับ**หนู (_Maew jap noo_)                                   | จับกุม (Formal)             |
+| **ขโมย**      | _Kha-moy_    | Thief / To steal         | Can be a noun (thief) or a verb (to steal).                               | Neutral        | **ขโมย**ขึ้นบ้าน (_Kha-moy khuen baan_)                          | โจร (_Jorn_)                |
+| **ได้**       | _Dai_        | Can / Could / Did        | Here it indicates a completed action (successful catch).                  | Neutral        | ผมทำ**ได้**! (_Phom tham dai!_)                                  | สามารถ (_Saa-maat_)         |
+| **บ่อยๆ**     | _Boy-boy_    | Often / Frequently       | Reduplication of "Boy" makes it sound more casual and natural.            | Casual/Neutral | ผมมาที่นี่**บ่อยๆ** (_Phom maa thee-nee boy-boy_)                | เป็นประจำ (_Bpen bpra-jam_) |
 
 The auntie told (me) that she sees the police catch thieves quite often.
 
@@ -129,4 +129,35 @@ The auntie told (me) that she sees the police catch thieves quite often.
 Noina was very excited because she had never seen a thief before.
 
 
+| **Thai Word** | **Phonetic** | **Meaning**                | **Usage & Context**                                                      | **Level** | **Example Sentence**                                                               | **Synonyms**           |
+| ------------- | ------------ | -------------------------- | ------------------------------------------------------------------------ | --------- | ---------------------------------------------------------------------------------- | ---------------------- |
+| **อ่าน**      | _aan_        | To read                    | Used for reading books, signs, or messages.                              | Neutral   | **ผมชอบอ่านหนังสือ** (_Phom chop aan nang-sue_) - I like to read books.            | -                      |
+| **เรื่อง**    | _rueang_     | Story / Subject / About    | Used to introduce a topic or title of a story/movie.                     | Neutral   | **เรื่องนี้สนุกมาก** (_Rueang nee sa-nuk maak_) - This story is very fun.          | บทความ (Article)       |
+| **น้อยหน่า**  | _Noy-naa_    | Noina (Name) / Sugar Apple | A common female nickname in Thailand; also the name of a tropical fruit. | Casual    | **น้อยหน่าไปไหน?** (_Noy-naa pai nai?_) - Where is Noina going?                    | -                      |
+| **ไป**        | _pai_        | To go                      | A fundamental verb for movement away from the speaker.                   | Neutral   | **ผมไปตลาด** (_Phom pai ta-laat_) - I am going to the market.                      | -                      |
+| **ตลาด**      | _ta-laat_    | Market                     | Refers to fresh markets or general marketplaces.                         | Neutral   | **ตลาดอยู่ไกลไหม?** (_Ta-laat yoo klai mai?_) - Is the market far?                 | ห้าง (Mall/Dept Store) |
+| **และ**       | _lae_        | And                        | Used to connect words or clauses.                                        | Neutral   | **ผมชอบส้มและมะม่วง** (_Phom chop som lae ma-muang_) - I like oranges and mangoes. | กับ (with/and)         |
+| **ตอบ**       | _top_        | To answer / To reply       | Used for answering questions, emails, or calls.                          | Neutral   | **ช่วยตอบหน่อยครับ** (_Chuay top noy khrap_) - Please answer me.                   | -                      |
+| **คำถาม**     | _kham-thaam_ | Question                   | A formal/neutral word for a question.                                    | Neutral   | **มีคำถามไหมครับ?** (_Mee kham-thaam mai khrap?_) - Do you have any questions?     | -                      |
 
+
+|**Thai Word**|**Phonetic**|**Meaning**|**Usage/Context**|**Tone/Level**|**Example Sentence**|**Synonyms**|
+|---|---|---|---|---|---|---|
+|**วันนี้**|_wan-nii_|Today|General time marker.|Neutral|**วันนี้ร้อนมาก** (Today is very hot)|-|
+|**จะ**|_ja_|Will / Shall|Indicates future tense.|Neutral|**ผมจะไปกินข้าว** (I will go eat)|-|
+|**ทำ**|_tam_|To do / To make|Action verb.|Neutral|**คุณทำอะไรอยู่?** (What are you doing?)|ปฏิบัติ (formal)|
+|**อะไร**|_a-rai_|What|Standard question word.|Neutral|**นี่คืออะไร?** (What is this?)|-|
+|**บ้าง**|_bâng_|Plural marker|Used after question words to ask for a **list** or **multiple** answers.|Neutral|**คุณกินอะไรบ้าง?** (What all did you eat?)|-|
+|**แม่**|_mae_|Mother|Family term.|Neutral/Warm|**แม่รักผม** (Mom loves me)|มารดา (formal)|
+|**ธุระ**|_tu-ra_|Errand / Business|Personal tasks or chores.|Neutral|**ผมมีธุระครับ** (I have errands)|กิจธุระ|
+|**ที่ไหน**|_tee-nai_|Where|Location question.|Neutral|**ห้องน้ำอยู่ที่ไหน?** (Where is the bathroom?)|-|
+|**เจอ**|_jer_|To meet / To find|Meeting someone or finding something.|Casual/Neutral|**ผมเจอเพื่อน** (I met a friend)|พบ (formal)|
+|**ใคร**|_krai_|Who|Person question.|Neutral|**เขาเป็นใคร?** (Who is he?)|-|
+|**ที่นั่น**|_tee-nan_|There|Pointing to a distance.|Neutral|**ผมไปที่นั่น** (I'm going there)|-|
+|**ตื่นเต้น**|_tuen-ten_|Excited|Feeling of excitement.|Neutral|**ผมตื่นเต้นมาก** (I am very excited)|-|
+|**เพราะ**|_prow_|Because|Linking a reason.|Neutral|**เพราะผมหิว** (Because I'm hungry)|เนื่องจาก|
+When you hear a Thai person use **บ้าง** at the end of a question, they aren't just looking for a "yes/no" or a single word. They are inviting you to share details.
+
+- **Who did you go with?** (_Pai kub krai?_) -> Looking for one main person.
+- **Who all did you go with?** (_Pai kub krai **bâng**?_) -> Looking for the whole group list.
+- The word **บ้าง (bâng)** is a small but powerful particle in Thai that changes how we answer a question. Because of the word **บ้าง**, the question isn't just asking "What errand is Mom doing?" It is asking **"What are the various errands Mom has to do?"** It signals that Mom likely has a list of things to accomplish at the market.
