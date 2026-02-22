@@ -1,4 +1,12 @@
 
+Important to differentiate when to use: 
+- ดึก vs. สาย
+	- Correct: ผมนอนดึกครับ
+	- Correct: ผมตื่นสายครับ
+- ไหม vs. ไม่
+	- Correct: คุณไปไหม?
+	- Correct: คุณไม่ไป
+
 | **#** | **Thai Word**  | **Phonetic Pronunciation** | **English Meaning**                                                     | **Usage Context & Tone**                                                                            | **Example Sentence (Thai/Phonetic)**                                                                                                     | **Synonyms**                                                     |
 | ----- | -------------- | -------------------------- | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
 | 1     | **เคย**        | kəəi                       | to have been, to have done, to be accustomed to, used to                | **Neutral.** Used to indicate a past experience or a habitual state. Very common.                   | **คุณเคยไปเที่ยวญี่ปุ่นไหม?** (Khun kəəi bpai thîao yîi-bpùn mái?) / Have you ever traveled to Japan?                                    | ชิน (chin - to be accustomed/used to)                            |
@@ -26,6 +34,9 @@
 | 23    | **เดี๋ยว**     | dĭao                       | a moment, soon, later (A short time)                                    | **Neutral/Casual.** Used to indicate a short, imminent, or near-future time.                        | **เดี๋ยวผมจะโทรกลับไปหาคุณ** (Dĭao pŏm jà thoo glàp bpai hăa khun) / I will call you back soon/in a moment.                              | ครู่เดียว (khrûu dĭao - just a moment - slightly more formal)    |
 | 24    | **อีก**        | èek                        | again, more, another                                                    | **Neutral.** Used to indicate repetition, an additional quantity, or something happening again.     | **ขอกาแฟอีกแก้วได้ไหม?** (Kɔ̌ɔ gaa-faae èek gâaew dâi mái?) / Can I have another cup of coffee?                                          | เพิ่ม (phôem - to add/increase)                                  |
 
+
+Q1.
+
 |**Thai Word**|**Romanization (Pronunciation)**|**Literal English Translation**|
 |---|---|---|
 |แม่|**mâae**|Mother|
@@ -38,6 +49,8 @@
 |ไป|**bpai**|go|
 |ฝาก|**fàak**|deposit/entrust/leave (something with someone)|
 |คุณย่า|**kun yâa**|respected grandmother (paternal)|
+
+Q2.
 
 | **Thai Word** | **Phonetic Pronunciation** | **English Meaning**               | **Usage Context & Tone**                                    |
 | ------------- | -------------------------- | --------------------------------- | ----------------------------------------------------------- |
@@ -54,6 +67,8 @@
 | **กัน**       | gan                        | together, mutually                | Neutral.                                                    |
 | เอง           |                            |                                   |                                                             |
 
+Q3.
+
 | **Thai Word** | **Phonetic Pronunciation** | **English Meaning**                              | **Usage Context & Tone**                                                |
 | ------------- | -------------------------- | ------------------------------------------------ | ----------------------------------------------------------------------- |
 | **ขอ**        | kɔ̌ɔ                       | To request, to ask for, Please (in a request)    | **Neutral.** Essential for making polite requests or asking permission. |
@@ -63,18 +78,23 @@
 | **หน่อย**     | nɔ̀ɔi                      | a little bit, for a moment (softens the request) | Casual/Neutral.                                                         |
 | **ได้ไหม**    | dâi mái                    | can I? / is it possible?                         | Neutral.                                                                |
 | **ครับ**      | kráp                       | polite particle (male speaker)                   | Formal/Neutral.                                                         |
-The overall meaning of the sentence in natural English is: **"May I please use your phone for a moment?"** or **"Can I borrow your phone?"**
+3. The overall meaning of the sentence in natural English is: **"May I please use your phone for a moment?"** or **"Can I borrow your phone?"**
 
 
-| **Thai Word**                    | **Phonetic Pronunciation**                                          | **English Meaning**                       | **Usage Context & Tone**                                     |
-| -------------------------------- | ------------------------------------------------------------------- | ----------------------------------------- | ------------------------------------------------------------ |
-| **ช่วย**                         | chûuai                                                              | to help, to assist, please (as a request) | **Neutral.** Used to ask someone to perform an action/favor. |
-| **ไปรับ**                        | bpai ráp                                                            | go to pick up                             | Neutral.                                                     |
-| **คุณยาย**                       | khun yaai                                                           | maternal grandmother                      | Neutral.                                                     |
-| **ที่โรงพยาบาล**                 | thîi roong-phá-yaa-baan                                             | at the hospital                           | Neutral.                                                     |
-| **หน่อยได้ไหม**                  | nɔ̀ɔi dâi mái                                                       | can you please? (softens the request)     | Neutral.                                                     |
+Q4.
 
-**Could you please go and pick up Grandmother from the hospital?**
+| **Thai Word**    | **Phonetic Pronunciation** | **English Meaning**                       | **Usage Context & Tone**                                     |
+| ---------------- | -------------------------- | ----------------------------------------- | ------------------------------------------------------------ |
+| **ช่วย**         | chûuai                     | to help, to assist, please (as a request) | **Neutral.** Used to ask someone to perform an action/favor. |
+| **ไปรับ**        | bpai ráp                   | go to pick up                             | Neutral.                                                     |
+| **คุณยาย**       | khun yaai                  | maternal grandmother                      | Neutral.                                                     |
+| **ที่โรงพยาบาล** | thîi roong-phá-yaa-baan    | at the hospital                           | Neutral.                                                     |
+| **หน่อยได้ไหม**  | nɔ̀ɔi dâi mái              | can you please? (softens the request)     | Neutral.                                                     |
+
+4. **Could you please go and pick up Grandmother from the hospital?**
+
+
+Q5.
 
 | **Thai Word** | **Romanization** | **Literal English Translation** |
 | ------------- | ---------------- | ------------------------------- |
@@ -91,7 +111,9 @@ The overall meaning of the sentence in natural English is: **"May I please use y
 | อย่างละ       | yàang lá         | of each kind                    |
 | ตัว           | dtuua            | (classifier for clothing)       |
 | หนึ่ง         | nèung            | one                             |
-Jane told her mother that she wants to get one shirt and one skirt (of each kind).
+5. Jane told her mother that she wants to get one shirt and one skirt (of each kind).
+
+Q6.
 
 | **Thai Word**    | **Romanization**  | **Literal English Translation**          |
 | ---------------- | ----------------- | ---------------------------------------- |
@@ -109,7 +131,7 @@ Jane told her mother that she wants to get one shirt and one skirt (of each kind
 | บ้าน             | bâan              | house, home                              |
 | หมด              | mòt               | finished, used up                        |
 | แล้ว             | láew              | already, finished (indicates completion) |
-Father has to go out shortly to buy milk at the supermarket, because the milk at home is all finished.
+6. Father has to go out shortly to buy milk at the supermarket, because the milk at home is all finished.
 
 | **Thai Word** | **Romanization** | **Literal English Translation** |
 | ------------- | ---------------- | ------------------------------- |
@@ -127,7 +149,8 @@ Father has to go out shortly to buy milk at the supermarket, because the milk at
 | ตรงข้าม       | dtrong kâam      | opposite, across from           |
 | ตลาด          | dtà-làat         | market                          |
 |               |                  |                                 |
-Mother invited Father to go try eating food at the newly opened restaurant across from the market.
+7. Mother invited Father to go try eating food at the newly opened restaurant across from the market.
+
 
 | **Thai Word** | **Romanization** | **Literal English Translation**      |
 | ------------- | ---------------- | ------------------------------------ |
@@ -140,7 +163,7 @@ Mother invited Father to go try eating food at the newly opened restaurant acros
 | สัก           | sàk              | approximately, about, around         |
 | ๒-๓           | sŏng-săam        | two-three (2-3)                      |
 | อาทิตย์       | aa-tít           | week                                 |
-Jane will take her family on a trip to America for about two to three weeks.
+8. Jane will take her family on a trip to America for about two to three weeks.
 
 | **Thai Word** | **Romanization** | **Literal English Translation** |
 | ------------- | ---------------- | ------------------------------- |
@@ -151,7 +174,7 @@ Jane will take her family on a trip to America for about two to three weeks.
 | ร้อน          | ráwn             | hot                             |
 | เหมือน        | mĕuuan           | like, similar to                |
 | เมื่อวานนี้   | mêua waan née    | yesterday                       |
-Today the weather is better; it is not hot like it was yesterday.
+9. Today the weather is better; it is not hot like it was yesterday.
 
 | **Thai Word** | **Romanization** | **Literal English Translation** |
 | ------------- | ---------------- | ------------------------------- |
@@ -171,7 +194,7 @@ Today the weather is better; it is not hot like it was yesterday.
 | ประชุม        | bprà-chum        | meeting                         |
 | ตอน           | dtawn            | at (time), during               |
 | ๕ โมงเย็น     | hâa mohng yen    | 5 o'clock evening (5 PM)        |
-Normally, Jane finishes work before 5 o'clock, but today she has to go home late because she has a meeting at 5 PM.
+10. Normally, Jane finishes work before 5 o'clock, but today she has to go home late because she has a meeting at 5 PM.
 
 | **Thai Word** | **Pronunciation** | **English Meaning & Context**                                                                                                                            | **Usage & Register**                            | **Example Sentence**                                                                                                                     | **Synonyms**                                                                                        |
 | ------------- | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
@@ -205,18 +228,18 @@ Mother: This evening child will go do homework at house friend, how/in what way 
 
 Child: Soon friend will come pick up (polite). Do homework finished already, I will go eat with friend (soft polite female).
 
-|**Thai Word**|**Pronunciation**|**English Meaning & Context**|**Usage & Register**|**Example Sentence**|**Synonyms**|
-|---|---|---|---|---|---|
-|**ได้**|Dâi|**Can / May / Okay / Yes.** A versatile word confirming ability, permission, or agreement.|**Neutral** (Used daily)|ฉันทำ **ได้** (Chǎn tham **dâi**) - I **can** do it.|ตกลง (Dtòk long - _Agree/Okay_), อนุญาต (À-nú-yâat - _Formal/Permit_)|
-|**จ้ะ**|Já|**Particle.** Similar to 'ค่ะ' (khâ) or 'ครับ' (khráp) but more casual and soft, used mostly by women or when addressing a family member/younger person.|**Casual** (Used daily)|จริงเหรอ **จ้ะ** (Jing rɔ̌ɔ **já**) - Really? **(soft, familiar)**|ค่ะ (Khâ - _Formal/Polite female_), นะ (Ná - _Softening particle_)|
-|**ถ้า**|Thâa|**If.** Conditional marker.|**Neutral** (Used daily)|**ถ้า** ฝนตก เราจะยกเลิก ( **Thâa** fǒn dtòk, rao jà yók-lôek) - **If** it rains, we will cancel.|หาก (Hàak - _Formal/Literary 'If'_)|
-|**ยังงั้น**|Yang ngán|**In that case / Like that.** A common contraction of อย่างนั้น (Yàang ngán). Often follows 'ถ้า' (thâa - _if_).|**Casual/Neutral** (Used daily)|**ยังงั้น** ก็ไปดูหนังกัน ( **Yang ngán** gɔ̂ bpai duu nǎng gan) - **In that case**, let's go watch a movie.|อย่างนั้น (Yàang ngán - _Neutral/Formal 'Like that'_), เช่นนั้น (Chên nán - _Formal 'Like so'_)|
-|**ออกไป**|Ǒok bpai|**To go out / To leave.** Combination of **ออก** (Ǒok - _exit_) and **ไป** (Bpai - _go_).|**Neutral** (Used daily)|เราควร **ออกไป** ตอนนี้ (Rao khuan **ɔ̀ɔk bpai** tɔɔn níi) - We should **go out** now.|จากไป (Jàak bpai - _Leave/Depart_), เดินทาง (Doēn thaang - _Travel/Journey_)|
-|**พ่อ**|Phɔ̂ɔ|**Father / Dad.** Used to address or refer to one's own father.|**Neutral** (Used daily)|**พ่อ** กำลังอ่านหนังสือ ( **Phɔ̂ɔ** gam-lang àan nǎng-sǔe) - **Dad** is reading a book.|บิดา (Bì-daa - _Formal/Literary Father_), ป๋า (Bpǎa - _Casual/Slang Dad_)|
-|**อย่า**|Yàa|**Don't / Do not.** Used for prohibition or negative commands.|**Neutral** (Used daily)|**อย่า** เปิดประตู ( **Yàa** bpèrt bprà-tuu) - **Don't** open the door.|ห้าม (Hâam - _Strictly forbid_)|
-|**กลับบ้าน**|Glàp bâan|**To return home / To go back home.** Combination of **กลับ** (Glàp - _return_) and **บ้าน** (Bâan - _home_).|**Neutral** (Used daily)|เขาจะ **กลับบ้าน** เมื่อไหร่ (Khǎo jà **glàp bâan** mûea rài) - When will he **return home**?|เข้าบ้าน (Khâo bâan - _Enter the house_)|
-|**ดึก**|Dʉ̀k|**Late (at night).** Refers specifically to the late hours after 10 PM.|**Neutral** (Used daily)|เธอเข้านอน **ดึก** ทุกคืน (Thoe khâo nɔɔn **dʉ̀k** thúk kheun) - She goes to bed **late** every night.|ค่ำ (Khâam - _Evening/Dusk_)|
-|**นะจ๊ะ**|Ná já|**Affectionate/Instructional Particle.** A soft, friendly, and affectionate combination of 'นะ' (ná) and 'จ๊ะ' (já). Used to give a gentle instruction or remind someone close.|**Casual/Familiar** (Used daily)|ตั้งใจเรียน **นะจ๊ะ** (Dtâng jai rian **ná já**) - Pay attention in class, **dear (gentle instruction)**.|นะ (Ná - _Softening particle_), ล่ะ (Lâ - _Emphasis particle_)|
+| **Thai Word** | **Pronunciation** | **English Meaning & Context**                                                                                                                                                   | **Usage & Register**             | **Example Sentence**                                                                                         | **Synonyms**                                                                                    |
+| ------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
+| **ได้**       | Dâi               | **Can / May / Okay / Yes.** A versatile word confirming ability, permission, or agreement.                                                                                      | **Neutral** (Used daily)         | ฉันทำ **ได้** (Chǎn tham **dâi**) - I **can** do it.                                                         | ตกลง (Dtòk long - _Agree/Okay_), อนุญาต (À-nú-yâat - _Formal/Permit_)                           |
+| **จ้ะ**       | Já                | **Particle.** Similar to 'ค่ะ' (khâ) or 'ครับ' (khráp) but more casual and soft, used mostly by women or when addressing a family member/younger person.                        | **Casual** (Used daily)          | จริงเหรอ **จ้ะ** (Jing rɔ̌ɔ **já**) - Really? **(soft, familiar)**                                           | ค่ะ (Khâ - _Formal/Polite female_), นะ (Ná - _Softening particle_)                              |
+| **ถ้า**       | Thâa              | **If.** Conditional marker.                                                                                                                                                     | **Neutral** (Used daily)         | **ถ้า** ฝนตก เราจะยกเลิก ( **Thâa** fǒn dtòk, rao jà yók-lôek) - **If** it rains, we will cancel.            | หาก (Hàak - _Formal/Literary 'If'_)                                                             |
+| **ยังงั้น**   | Yang ngán         | **In that case / Like that.** A common contraction of อย่างนั้น (Yàang ngán). Often follows 'ถ้า' (thâa - _if_).                                                                | **Casual/Neutral** (Used daily)  | **ยังงั้น** ก็ไปดูหนังกัน ( **Yang ngán** gɔ̂ bpai duu nǎng gan) - **In that case**, let's go watch a movie. | อย่างนั้น (Yàang ngán - _Neutral/Formal 'Like that'_), เช่นนั้น (Chên nán - _Formal 'Like so'_) |
+| **ออกไป**     | Ǒok bpai          | **To go out / To leave.** Combination of **ออก** (Ǒok - _exit_) and **ไป** (Bpai - _go_).                                                                                       | **Neutral** (Used daily)         | เราควร **ออกไป** ตอนนี้ (Rao khuan **ɔ̀ɔk bpai** tɔɔn níi) - We should **go out** now.                       | จากไป (Jàak bpai - _Leave/Depart_), เดินทาง (Doēn thaang - _Travel/Journey_)                    |
+| **พ่อ**       | Phɔ̂ɔ             | **Father / Dad.** Used to address or refer to one's own father.                                                                                                                 | **Neutral** (Used daily)         | **พ่อ** กำลังอ่านหนังสือ ( **Phɔ̂ɔ** gam-lang àan nǎng-sǔe) - **Dad** is reading a book.                     | บิดา (Bì-daa - _Formal/Literary Father_), ป๋า (Bpǎa - _Casual/Slang Dad_)                       |
+| **อย่า**      | Yàa               | **Don't / Do not.** Used for prohibition or negative commands.                                                                                                                  | **Neutral** (Used daily)         | **อย่า** เปิดประตู ( **Yàa** bpèrt bprà-tuu) - **Don't** open the door.                                      | ห้าม (Hâam - _Strictly forbid_)                                                                 |
+| **กลับบ้าน**  | Glàp bâan         | **To return home / To go back home.** Combination of **กลับ** (Glàp - _return_) and **บ้าน** (Bâan - _home_).                                                                   | **Neutral** (Used daily)         | เขาจะ **กลับบ้าน** เมื่อไหร่ (Khǎo jà **glàp bâan** mûea rài) - When will he **return home**?                | เข้าบ้าน (Khâo bâan - _Enter the house_)                                                        |
+| **ดึก**       | Dʉ̀k              | **Late (at night).** Refers specifically to the late hours after 10 PM.                                                                                                         | **Neutral** (Used daily)         | เธอเข้านอน **ดึก** ทุกคืน (Thoe khâo nɔɔn **dʉ̀k** thúk kheun) - She goes to bed **late** every night.       | ค่ำ (Khâam - _Evening/Dusk_)                                                                    |
+| **นะจ๊ะ**     | Ná já             | **Affectionate/Instructional Particle.** A soft, friendly, and affectionate combination of 'นะ' (ná) and 'จ๊ะ' (já). Used to give a gentle instruction or remind someone close. | **Casual/Familiar** (Used daily) | ตั้งใจเรียน **นะจ๊ะ** (Dtâng jai rian **ná já**) - Pay attention in class, **dear (gentle instruction)**.    | นะ (Ná - _Softening particle_), ล่ะ (Lâ - _Emphasis particle_)                                  |
 
 Okay particle. If like that, Mother will go out eat with Father softening particle. Don't return home late affectionate particle, child.
 
@@ -234,7 +257,7 @@ Okay particle. If like that, Mother will go out eat with Father softening partic
 | คน            | khon             | person / people                   |
 | ไทย           | thāi             | Thai (nationality)                |
 
-Soon, I will be able to speak Thai like a native Thai person.
+12. Soon, I will be able to speak Thai like a native Thai person.
 
 
 | **Thai Word** | **Phonetic Pronunciation** | **English Meaning**                             | **Usage & Context**                                                                                                                                  | **Formality**    | **Example Sentence (Thai & English)**                                                                                      | **Synonyms**                                                                                       |
@@ -262,15 +285,15 @@ Jane's family likes to travel to both the beach/sea and the mountains.
 |Atlas Bar|át-lâas baa|Atlas Bar (Name of place)|
 |หรือยัง|rǔu yang|Or not yet (Question particle for "Have you... yet?")|
 
-|**Thai Word**|**Phonetic Pronunciation**|**Literal English Translation**|
-|---|---|---|
-|จิม (Jim)|jim|Jim (Name)|
-|อ๋อ|ɔ̌ɔ|Oh (Expression of realization/understanding)|
-|ที่|tîi|At / Location|
-|ถนน|tà-nǒn|Road / Street|
-|North Bridge|nɔ̂ɔt brít|North Bridge (Name of street)|
-|ใช่|châi|Correct / Is that so|
-|ไหม|măi|Question particle|
+| **Thai Word** | **Phonetic Pronunciation** | **Literal English Translation**              |
+| ------------- | -------------------------- | -------------------------------------------- |
+| จิม (Jim)     | jim                        | Jim (Name)                                   |
+| อ๋อ           | ɔ̌ɔ                        | Oh (Expression of realization/understanding) |
+| ที่           | tîi                        | At / Location                                |
+| ถนน           | tà-nǒn                     | Road / Street                                |
+| North Bridge  | nɔ̂ɔt brít                 | North Bridge (Name of street)                |
+| ใช่           | châi                       | Correct / Is that so                         |
+| ไหม           | măi                        | Question particle                            |
 
 | **Thai Word** | **Phonetic Pronunciation** | **Literal English Translation** |
 | ------------- | -------------------------- | ------------------------------- |
