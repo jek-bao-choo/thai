@@ -1,4 +1,6 @@
 
+Page 1
+
 นาตาลีกับเพื่อนๆ ชอบไปซื้อกาแฟที่ร้านข้างห้องสมุดก่อนไปเรียนครับ เพราะกาแฟที่นั่นทั้งอร่อยแล้วก็ไม่แพงด้วยครับ 
 
 Natalie and her friends like to go buy coffee at the coffee shop next to the library before going to class because the coffee there is both delicious and affordable.
@@ -268,6 +270,42 @@ The phrases in the image are:
 5. 
 
 
+## กลาง
+
+**Pronunciation:** /glaang/ (mid tone)
+
+### Meaning:
+
+- middle
+    
+- center
+    
+- central
+    
+
+### Usage:
+
+Used to describe something in the middle of space or time.
+
+Examples:
+
+- กลางคืน (middle of the night = nighttime)
+    
+- กลางถนน (middle of the road)
+    
+
+### Register:
+
+Neutral. Very common in daily Thai.
+
+### Example:
+
+- เขายืนอยู่กลางถนน  
+    (khăo yeun yùu glaang thanŏn)  
+    → He is standing in the middle of the road.
+
+
+
 Here are the individual fragments from your image:
 
 1. **ให้ผม** (_hai-phom_) — "For me / To me"
@@ -294,3 +332,52 @@ When we piece these together, we get a very common workplace request:
 > **"ผมหิวมากแต่ผมยังทำงานไม่เสร็จ คุณช่วยซื้ออาหารกลางวันให้ผมหน่อยได้ไหม?"**
 > 
 > _I’m very hungry, but I haven't finished my work yet. Could you please buy some lunch for me?_
+
+
+---
+
+Page 2
+
+
+1. ____คุณส่งการบ้านภาษาไทยหรือยัง
+    
+2. ____พรุ่งนี้ตอนบ่ายสามครูว่างไหมคะ
+    
+3. ____ขอโทษนะ วันนี้ผิดไทยหมดแล้ว
+    
+4. ____หมวกสีชมพูใบนี้สวยดีนะ
+    
+5. ____แอนนากลับมาจากยุโรปแล้ว
+    
+6. ____คุณกำลังยุ่งอยู่เหรอ
+    
+7. ____ขอโทษนะ เย็นนี้ฉันมีธุระด่วน ไปส่งคุณไม่ได้แล้ว
+    
+8. ____ก้องจ๊ะ พรุ่งนี้เรามีนัดกันตอนเที่ยงใช่ไหม
+    
+9. ____ช่วยมารับฉันที่ออฟฟิศหน่อยได้ไหม
+    
+10. ____วันนี้พ่อไม่ว่างเลย
+
+
+
+
+A. อ้าว! ผมลืมไปเลย ขอเลื่อนนัดเป็นตอนเย็นได้ไหมครับ พลอย
+
+B. เดี๋ยวดูตารางเวลาก่อนนะ
+
+C. งั้นขอก๋วยเตี๋ยวก็แล้วกัน
+
+D. ได้ครับ คุณรอผมข้างล่างนะ
+
+E. ไม่เป็นไร ฉันนั่งรถไฟกลับบ้านเองได้
+
+F. จริงเหรอ งั้นเราชวนเขาไปทานข้าวด้วยกันนะ
+
+G. เปล่า กำลังอ่านหนังสือพิมพ์
+
+H. เขาเลยขอให้แม่ไปรับน้องที่โรงเรียน
+
+I. ผมยังทำไม่เสร็จเลย
+
+K. ซื้อให้แฟนคุณดีไหม
