@@ -3,7 +3,7 @@ Important to differentiate when to use:
 - ดึก vs. สาย
 	- Correct: ผมนอนดึกครับ
 	- Correct: ผมตื่นสายครับ
-- ไหม vs. ไม่
+- ไหม vs. ไม่ vs. ใหม่
 	- Correct: คุณไปไหม?
 	- Correct: คุณไม่ไป
 
