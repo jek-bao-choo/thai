@@ -340,6 +340,16 @@ Page 2
 
 ด่วน = urgent
 
+นัด = to make an appointment; a date; a meeting tim
+
+กัน = together; each other; mutually.
+
+นัดกัน = to have an appointment
+
+ออฟฟิศ = office
+
+เลื่อน	(luean) = to postpone
+
 
 1. ____คุณส่งการบ้านภาษาไทยหรือยัง
     
@@ -363,6 +373,16 @@ Page 2
 
 
 
+งั้น = so / in that case
+
+ก๋วยเตี๋ยว = noodles
+
+ข้าง = side / art
+
+ล่าง = lower / bottom 
+
+เลย = at all / so / therefore
+
 
 A. อ้าว! ผมลืมไปเลย ขอเลื่อนนัดเป็นตอนเย็นได้ไหมครับ พลอย
 
@@ -383,3 +403,17 @@ H. เขาเลยขอให้แม่ไปรับน้องที�
 I. ผมยังทำไม่เสร็จเลย
 
 K. ซื้อให้แฟนคุณดีไหม
+
+
+| **Context / Question**                                                                                                         | **Matching Response**                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
+| 1. คุณส่งการบ้านภาษาไทยหรือยัง (Did you submit the Thai homework yet?)                                                         | **I. ผมยังทำไม่เสร็จเลย** (I haven't finished it yet.)                                                                     |
+| 2. พรุ่งนี้ตอนบ่ายสามครูว่างไหมคะ (Is the teacher free tomorrow at 3 PM?)                                                      | **B. เดี๋ยวดูตารางเวลาก่อนนะ** (Let me check the schedule first.)                                                          |
+| 3. ขอโทษนะ วันนี้ผิดไทยหมดแล้ว (Sorry, today [the food] is all out.)                                                           | **C. งั้นขอก๋วยเตี๋ยวก็แล้วกัน** (In that case, I'll have noodles then.)                                                   |
+| 4. หมวกสีชมพูใบนี้สวยดีนะ (This pink hat is quite pretty.)                                                                     | **K. ซื้อให้แฟนคุณดีไหม** (Should you buy it for your girlfriend?)                                                         |
+| 5. แอนนากลับมาจากยุโรปแล้ว (Anna is back from Europe already.)                                                                 | **F. จริงเหรอ งั้นเราชวนเขาไปทานข้าวด้วยกันนะ** (Really? Then let's invite her to eat together.)                           |
+| 6. คุณกำลังยุ่งอยู่เหรอ (Are you busy right now?)                                                                              | **G. เปล่า กำลังอ่านหนังสือพิมพ์** (No, I'm reading the newspaper.)                                                        |
+| 7. ขอโทษนะ เย็นนี้ฉันมีธุระด่วน ไปส่งคุณไม่ได้แล้ว (Sorry, I have urgent business this evening; I can't drop you off anymore.) | **E. ไม่เป็นไร ฉันนั่งรถไฟกลับบ้านเองได้** (No problem, I can take the train home myself.)                                 |
+| 8. ก้องจ๊ะ พรุ่งนี้เรามีนัดกันตอนเที่ยงใช่ไหม (Kong, we have an appointment tomorrow at noon, right?)                          | **A. อ้าว! ผมลืมไปเลย ขอเลื่อนนัดเป็นตอนเย็นได้ไหมครับ พลอย** (Oh! I totally forgot. Can I postpone to the evening, Ploy?) |
+| 9. ช่วยมารับฉันที่ออฟฟิศหน่อยได้ไหม (Can you please pick me up at the office?)                                                 | **D. ได้ครับ คุณรอผมข้างล่างนะ** (Sure, you wait for me downstairs.)                                                       |
+| 10. วันนี้พ่อไม่ว่างเลย (Today Dad isn't free at all.)                                                                         | **H. เขาเลยขอให้แม่ไปรับน้องที่โรงเรียน** (So he asked Mom to pick up younger sibling at school.)                          |
