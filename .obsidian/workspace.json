@@ -11,10 +11,14 @@
             "id": "5e1f86f56639e9a8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "level2-0/2026-09-22.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-09-22"
             }
           }
         ]
@@ -37,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -179,8 +185,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "5e1f86f56639e9a8",
+  "active": "2ceda05b0f7cc5d5",
   "lastOpenFiles": [
+    "level3-0/Screenshot_2026-09-22T20-20-28_UTC+0800@2x.png",
+    "level3-0/Screenshot_2026-09-22T20-03-22_UTC+0800@2x.png",
+    "level2-0/2026-09-22.md",
+    "level2-0",
     "level3-0/README.md",
     "level3-0/Thai 3 External Course Homework 1 covered until 3A&B English.md",
     "level3-0/Thai 3 Revision Week 1.md",
