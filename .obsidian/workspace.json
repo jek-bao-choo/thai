@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c2523cc0908e2ce8",
+        "id": "8106356dc606d2fe",
         "type": "tabs",
         "children": [
           {
-            "id": "5e1f86f56639e9a8",
+            "id": "83de635a70eb4c63",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "level2-0/Thai Level 2 Class Note.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Thai Level 2 Class Note"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -183,12 +181,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "2ceda05b0f7cc5d5",
+  "active": "83de635a70eb4c63",
   "lastOpenFiles": [
-    "level2-0/2026-09-22.md",
-    "level2-0/Thai Level 2 Class Note.pdf",
-    "level2-0/WhatsApp Image 2026-09-22 at 8.53.03 PM.jpeg",
-    "level2-0/WhatsApp Image 2026-09-22 at 8.53.00 PM.jpeg",
+    "level2-0/phuut thai 2 textbook.pdf",
+    "level2-0/2026-09-29/class-notes-2026-09-29.md",
+    "level2-0/2026-09-29/WhatsApp Image 2026-09-29 at 7.10.48 PM.jpeg",
+    "level2-0/2026-09-29",
+    "level2-0/2026-09-22",
+    "level2-0/2026-09-22/WhatsApp Image 2026-09-22 at 8.53.00 PM.jpeg",
+    "level2-0/2026-09-22/Thai Level 2 Class Note.pdf",
+    "level2-0/2026-09-22/class-notes-2026-09-22.md",
+    "level2-0/2026-09-22/WhatsApp Image 2026-09-22 at 8.53.03 PM.jpeg",
     "level3-0/Screenshot_2026-09-22T20-20-28_UTC+0800@2x.png",
     "level3-0/Screenshot_2026-09-22T20-03-22_UTC+0800@2x.png",
     "level2-0",
