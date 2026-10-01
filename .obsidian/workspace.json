@@ -11,10 +11,14 @@
             "id": "dc978651cd5df4d0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "level2-0/2026-10-01/class-note-2026-10-01.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "class-note-2026-10-01"
             }
           }
         ]
@@ -92,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "level3-0/Thai 3 External Course Homework 1 covered until 3A&B English.md",
+                "file": "level2-0/2026-10-01/class-note-2026-10-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Thai 3 External Course Homework 1 covered until 3A&B English"
+              "title": "Backlinks"
             }
           },
           {
@@ -181,9 +185,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "dc978651cd5df4d0",
+  "active": "2ceda05b0f7cc5d5",
   "lastOpenFiles": [
+    "level2-0/2026-10-01/Screenshot_2026-10-01T20-27-07_UTC+0800@2x.png",
+    "level2-0/2026-10-01/Screenshot_2026-10-01T20-21-47_UTC+0800@2x.png",
     "level2-0/2026-09-29/class-notes-2026-09-29.md",
+    "level2-0/2026-10-01/class-note-2026-10-01.md",
+    "level2-0/2026-10-01/Screenshot_2026-10-01T19-58-57_UTC+0800@2x.png",
+    "level2-0/2026-10-01",
     "level2-0/2026-09-29/WhatsApp Image 2026-09-29 at 7.38.14 PM 1.jpeg",
     "level2-0/2026-09-29/WhatsApp Image 2026-09-29 at 7.38.32 PM.jpeg",
     "level2-0/2026-09-29/WhatsApp Image 2026-09-29 at 7.38.37 PM.jpeg",
@@ -197,8 +206,6 @@
     "level2-0/2026-09-22/WhatsApp Image 2026-09-22 at 8.53.00 PM.jpeg",
     "level2-0/2026-09-22/Thai Level 2 Class Note.pdf",
     "level2-0/2026-09-22/class-notes-2026-09-22.md",
-    "level2-0/2026-09-22/WhatsApp Image 2026-09-22 at 8.53.03 PM.jpeg",
-    "level3-0/Screenshot_2026-09-22T20-20-28_UTC+0800@2x.png",
     "level2-0",
     "level3-0/README.md",
     "level3-0/Thai 3 External Course Homework 1 covered until 3A&B English.md",
