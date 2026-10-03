@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9986fe6046c50d4c",
+        "id": "8debd33c8efa93fd",
         "type": "tabs",
         "children": [
           {
-            "id": "dc978651cd5df4d0",
+            "id": "28488afd57915f2e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "level2-0/2026-10-01/class-note-2026-10-01.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "class-note-2026-10-01"
+              "title": "New tab"
             }
           }
         ]
@@ -185,12 +181,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "2ceda05b0f7cc5d5",
+  "active": "28488afd57915f2e",
   "lastOpenFiles": [
-    "level2-0/2026-10-01/Screenshot_2026-10-01T20-27-07_UTC+0800@2x.png",
-    "level2-0/2026-10-01/Screenshot_2026-10-01T20-21-47_UTC+0800@2x.png",
     "level2-0/2026-09-29/class-notes-2026-09-29.md",
     "level2-0/2026-10-01/class-note-2026-10-01.md",
+    "level2-0/2026-10-01/Screenshot_2026-10-01T20-27-07_UTC+0800@2x.png",
+    "level2-0/2026-10-01/Screenshot_2026-10-01T20-21-47_UTC+0800@2x.png",
     "level2-0/2026-10-01/Screenshot_2026-10-01T19-58-57_UTC+0800@2x.png",
     "level2-0/2026-10-01",
     "level2-0/2026-09-29/WhatsApp Image 2026-09-29 at 7.38.14 PM 1.jpeg",
@@ -203,7 +199,6 @@
     "level2-0/2026-09-29/WhatsApp Image 2026-09-29 at 7.10.48 PM.jpeg",
     "level2-0/2026-09-29",
     "level2-0/2026-09-22",
-    "level2-0/2026-09-22/WhatsApp Image 2026-09-22 at 8.53.00 PM.jpeg",
     "level2-0/2026-09-22/Thai Level 2 Class Note.pdf",
     "level2-0/2026-09-22/class-notes-2026-09-22.md",
     "level2-0",
