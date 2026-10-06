@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8debd33c8efa93fd",
+        "id": "527f661f736d3934",
         "type": "tabs",
         "children": [
           {
-            "id": "28488afd57915f2e",
+            "id": "c8fbe0a956be7e0f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "level2-0/2026-10-06/class-note-2026-10-06.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "class-note-2026-10-06"
             }
           }
         ]
@@ -76,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "8a29b68a99e5f650",
@@ -181,8 +185,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "28488afd57915f2e",
+  "active": "2ceda05b0f7cc5d5",
   "lastOpenFiles": [
+    "level2-0/2026-10-06/Screenshot_2026-10-06T20-25-05_UTC+0800@2x.png",
+    "level2-0/2026-10-06/Screenshot_2026-10-06T20-24-29_UTC+0800@2x.png",
+    "level2-0/phuut thai 2 textbook.pdf",
+    "level2-0/2026-10-06/class-note-2026-10-06.md",
+    "level2-0/2026-10-06/Screenshot_2026-10-06T20-17-05_UTC+0800@2x.png",
+    "level2-0/2026-10-06",
     "level2-0/2026-09-29/class-notes-2026-09-29.md",
     "level2-0/2026-10-01/class-note-2026-10-01.md",
     "level2-0/2026-10-01/Screenshot_2026-10-01T20-27-07_UTC+0800@2x.png",
@@ -194,9 +204,6 @@
     "level2-0/2026-09-29/WhatsApp Image 2026-09-29 at 7.38.37 PM.jpeg",
     "level2-0/2026-09-29/WhatsApp Image 2026-09-29 at 7.38.24 PM.jpeg",
     "level2-0/2026-09-29/WhatsApp Image 2026-09-29 at 7.38.14 PM.jpeg",
-    "level2-0/phuut thai 2 textbook.pdf",
-    "level2-0/2026-09-29/WhatsApp Image 2026-09-29 at 7.10.54 PM.jpeg",
-    "level2-0/2026-09-29/WhatsApp Image 2026-09-29 at 7.10.48 PM.jpeg",
     "level2-0/2026-09-29",
     "level2-0/2026-09-22",
     "level2-0/2026-09-22/Thai Level 2 Class Note.pdf",
