@@ -803,3 +803,74 @@ This page leads directly into **Exercise 2** (which continues onto page 8), wher
 
 ![[Screenshot_2026-10-13T20-24-50_UTC+0800.png]]
 
+---
+
+**Page 9 of _phuut thai 2.pdf_** (Lesson 1, Part A) covers **dialogue practice using visual prompts** and **pronunciation drills focused on sound contrasts between similar-sounding Thai words**.
+
+Specifically, page 9 includes:
+
+1. **Exercise 3 (Dialogue Formation)**: Students work in pairs to form spoken dialogues using photos showing daily routines, meals, and times (such as 12:00 PM and 6:00 PM).
+2. **Pronunciation Section (การออกเสียง)**: A listening and repetition drill designed to help students distinguish look-alike and sound-alike vocabulary pairs:
+    - **กะเพรา** (_kaphraw_ – holy basil) vs. **กระเป๋า** (_krapăw_ – bag/wallet)
+    - **การบ้าน** (_kaanbáan_ – homework) vs. **งานบ้าน** (_ŋaanbáan_ – housework)
+    - **ข้าวผัด** (_khâaw phàt_ – fried rice)
+
+---
+
+### Detailed Vocabulary Breakdown for Target Pronunciation Words
+
+#### 1. กะเพรา (_kaphraw_)
+
+1. **Literal Translation**: Holy basil.
+2. **Meaning**: Holy basil (the key aromatic herb used in Thai stir-fries).
+3. **Word Breakdown**: **กะเพรา** (_kaphraw_) – Mid tone / Low-Mid tone.
+4. **Cultural & Contextual Usage**: Essential in Thailand's famous **ผัดกะเพรา** (_phàt kaphraw_ – holy basil stir-fry), often considered the go-to default lunch dish in Thailand.
+5. **Modern Daily Usage**: Used constantly when ordering food at street stalls or restaurants.
+6. **Formality**: Neutral.
+7. **Daily Example Sentence**: **ผมชอบทานผัดกะเพราไก่ครับ** (_phŏm chɔ̂ɔp thaan phàt kaphraw kày khráp_) – I like eating chicken holy basil stir-fry.
+8. **Synonyms**: N/A (specific plant name).
+9. **Thai Conversational Version**: **ขอผัดกะเพราไก่ไข่ดาวจานหนึ่งครับ** (_khɔ̌ɔ phàt kaphraw kày khày daaw caan nUuŋ khráp_) – I would like one chicken holy basil stir-fry with a fried egg.
+
+---
+
+#### 2. กระเป๋า (_krapăw_)
+
+1. **Literal Translation**: Bag / Purse / Wallet.
+2. **Meaning**: A bag, backpack, or wallet used for carrying personal items.
+3. **Word Breakdown**: **กระเป๋า** (_krapăw_) – Low tone + Rising tone.
+4. **Cultural & Contextual Usage**: Used daily for school bags, handbags, or wallets (**กระเป๋าสตางค์** _krapăw sa-taaŋ_).
+5. **Modern Daily Usage**: Common noun used when discussing personal belongings.
+6. **Formality**: Neutral.
+7. **Daily Example Sentence**: **กระเป๋าใบนี้สีแดง** (_krapăw bay níi sĭi dɛɛŋ_) – This bag is red.
+8. **Synonyms**: **ถุง** (_thŭng_ – plastic or paper bag).
+9. **Thai Conversational Version**: **ผมลืมกระเป๋าไว้ที่บ้านครับ** (_phŏm lUum krapăw wáy thîi báan khráp_) – I forgot my bag at home.
+
+---
+
+#### 3. การบ้าน (_kaanbáan_)
+
+1. **Literal Translation**: Work + Home = Homework.
+2. **Meaning**: Academic homework or assignments given by a teacher.
+3. **Word Breakdown**: **การ** (_kaan_ – prefix turning verbs into action nouns / work) + **บ้าน** (_báan_ – home).
+4. **Cultural & Contextual Usage**: Core educational vocabulary used by students and teachers daily.
+5. **Modern Daily Usage**: Used when assigning, completing, or handing in homework.
+6. **Formality**: Neutral.
+7. **Daily Example Sentence**: **นักเรียนต้องส่งการบ้านก่อนเที่ยง** (_nák-rian tɔ̂ɔŋ sòŋ kaanbáan kòon thîaŋ_) – Students must submit homework before noon.
+8. **Synonyms**: **แบบฝึกหัด** (_bɛ̀ɛp-fUuk-hàt_ – practice exercise).
+9. **Thai Conversational Version**: **ผมจะไปส่งการบ้านอาจารย์ครับ** (_phŏm ca pay sòŋ kaanbáan ?aacaan khráp_) – I am going to submit my homework to the professor.
+
+---
+
+#### 4. งานบ้าน (_ŋaanbáan_)
+
+1. **Literal Translation**: Work/Task + Home = Housework / Chores.
+2. **Meaning**: Household duties (such as vacuuming, washing dishes, cleaning).
+3. **Word Breakdown**: **งาน** (_ŋaan_ – job/work) + **บ้าน** (_báan_ – home).
+4. **Cultural & Contextual Usage**: Distinct from **การบ้าน** (_homework_); **งานบ้าน** specifically refers to physical home maintenance and cleaning.
+5. **Modern Daily Usage**: Everyday speech when talking about domestic responsibilities.
+6. **Formality**: Neutral.
+7. **Daily Example Sentence**: **น้องช่วยแม่ทำงานบ้าน** (_nóɔŋ chûay mɛ̂ɛ tham ŋaanbáan_) – The younger sibling helps mother do housework.
+8. **Synonyms**: **งานครัวเรือน** (_ŋaan khrua-rUan_ – formal domestic work).
+9. **Thai Conversational Version**: **วันนี้ผมต้องทำงานบ้านครับ** (_wan níi phŏm tɔ̂ɔŋ tham ŋaanbáan khráp_) – Today I have to do housework.
+
+---
