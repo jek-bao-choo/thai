@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "527f661f736d3934",
+        "id": "5004db9f986cc085",
         "type": "tabs",
         "children": [
           {
-            "id": "c8fbe0a956be7e0f",
+            "id": "9bae94274936f9c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "level2-0/2026-10-06/class-note-2026-10-06.md",
+                "file": "level2-0/2026-10-13/class-notes-2026-10-13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "class-note-2026-10-06"
+              "title": "class-notes-2026-10-13"
             }
           }
         ]
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 277.7272148132324
   },
   "right": {
     "id": "8a29b68a99e5f650",
@@ -185,12 +185,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "2ceda05b0f7cc5d5",
+  "active": "9bae94274936f9c5",
   "lastOpenFiles": [
+    "level2-0/Aan Khian Thai 2.pdf",
+    "level2-0/2026-10-13/class-notes-2026-10-13.md",
+    "level2-0/phuut thai 2.pdf",
+    "level2-0/2026-10-13",
+    "level2-0/2026-10-08/class-note-2026-10-08.md",
+    "level2-0/2026-10-06/class-note-2026-10-06.md",
+    "level2-0/2026-10-08",
     "level2-0/2026-10-06/Screenshot_2026-10-06T20-25-05_UTC+0800@2x.png",
     "level2-0/2026-10-06/Screenshot_2026-10-06T20-24-29_UTC+0800@2x.png",
-    "level2-0/phuut thai 2 textbook.pdf",
-    "level2-0/2026-10-06/class-note-2026-10-06.md",
     "level2-0/2026-10-06/Screenshot_2026-10-06T20-17-05_UTC+0800@2x.png",
     "level2-0/2026-10-06",
     "level2-0/2026-09-29/class-notes-2026-09-29.md",
@@ -203,7 +208,6 @@
     "level2-0/2026-09-29/WhatsApp Image 2026-09-29 at 7.38.32 PM.jpeg",
     "level2-0/2026-09-29/WhatsApp Image 2026-09-29 at 7.38.37 PM.jpeg",
     "level2-0/2026-09-29/WhatsApp Image 2026-09-29 at 7.38.24 PM.jpeg",
-    "level2-0/2026-09-29/WhatsApp Image 2026-09-29 at 7.38.14 PM.jpeg",
     "level2-0/2026-09-29",
     "level2-0/2026-09-22",
     "level2-0/2026-09-22/Thai Level 2 Class Note.pdf",
@@ -216,7 +220,6 @@
     "level3-0/Homework NO SCORES English.md",
     "level3-0/Homework NO SCORES.md",
     "level3-0/README-ENGLISH.md",
-    "Welcome.md",
-    "level3-0"
+    "Welcome.md"
   ]
 }
