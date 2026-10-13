@@ -371,3 +371,435 @@ Here is the complete sentence-by-sentence analysis of the story on page 31:
 
 ---
 
+Page 5 of _**phuut thai 2.pdf**_ (Lesson 1, Part A: Exercises) focuses on checking listening and reading comprehension based on Jane and Anna's lunch conversation from page 4. It contains three main exercises:
+
+1. **Exercise 1 (True/False Statement Verification)**: Assessing whether 6 statements about Jane and Anna's lunch plans are correct or incorrect.
+2. **Exercise 2 (Summary Sentence Reordering)**: Rearranging 7 scrambled summary sentences into the correct chronological sequence to retell the dialogue.
+3. **Exercise 3 (Listening Verification)**: Listening to the complete audio summary to verify the answers from Exercise 2.
+
+---
+
+### Exercise 1: True / False Statements Breakdown
+
+Here is the evaluation of the 6 statements on page 5:
+
+- **Statement 1**: **ceen chuan ?ɛɛnnaa pay thaan khâaw thiiaŋ** (Jane invites Anna to go eat lunch) – **True**.
+- **Statement 2**: **?ɛɛnnaa yaŋ mây hĭw** (Anna is not hungry yet) – **False** (Anna is hungry too).
+- **Statement 3**: **thîi ráan ?aròy dii khăay ?aahăan thay** (At "Aroy Dee" restaurant they sell Thai food) – **True**.
+- **Statement 4**: **ceen yaŋ mây khəəy thaan ?aahăan thîi nân** (Jane has never eaten there before) – **False** (Jane has eaten there before).
+- **Statement 5**: **kháw sɔ̌ɔŋ khon ca pay thaan khâaw toon thiiaŋ khrÛŋ** (The two of them will go eat at 12:30 PM) – **True**.
+- **Statement 6**: **ceen ca tham kaanbáan kòon, dĭaw kháw ca pay cəə ?ɛɛnnaa thîi nâa ráan** (Jane will do homework first, then meet Anna in front of the restaurant) – **False** (Jane will _submit_ homework first, not _do_ homework).
+
+---
+
+### Exercise 2: Summary Reordering (Chronological Sequence)
+
+Below are the 7 summary sentences arranged in their proper order (1 to 7):
+
+1. **เที่ยงแล้ว เจนชวนแอนนาไปทานข้าวเที่ยง** (_thiiaŋ lɛ́ɛw, ceen chuan ?ɛɛnnaa pay thaan khâaw thiiaŋ_) – It's noon, Jane invites Anna to go eat lunch.
+2. **แอนนาหิวแล้วเหมือนกัน เขาถามเจนว่าจะทานอะไรกันดี** (_?ɛɛnnaa hĭw lɛ́ɛw mǓan-kan. kháw thăam ceen wâa ca thaan ?aray kan dii_) – Anna is hungry too. She asks Jane what they should eat.
+3. **เจนชวนแอนนาไปทานที่ร้านตรงข้ามห้องสมุด** (_ceen chuan ?ɛɛnnaa pay thaan thîi ráan troŋkháam hông samùt_) – Jane invites Anna to eat at the restaurant opposite the library.
+4. **แอนนาถามเจนว่าที่นั่นมีอะไรอร่อยบ้าง** (_?ɛɛnnaa thăam ceen wâa thîi nân mii ?aray ?aròy báaŋ_) – Anna asks Jane what is delicious there.
+5. **เจนบอกแอนนาว่าข้าวผัดกะเพราไก่ไข่ดาวกับชาเย็นที่นั่นอร่อยมาก** (_ceen bɔ̀ɔk ?ɛɛnnaa wâa khâaw phàt kaphraw kày khày daaw kàp chaa yen thîi nân ?aròy mâak_) – Jane tells Anna that chicken basil fried rice with fried egg and iced tea there are very delicious.
+6. **เจนจะไปส่งการบ้านก่อน** (_ceen ca pay sòŋ kaanbáan kòon_) – Jane will go submit homework first.
+7. **เขาทั้งสองคนจะพบกันที่หน้าร้านตอนเที่ยงครึ่ง** (_kháw tháŋ sɔ̌ɔŋ khon ca phóp kan thîi nâa ráan toon thiiaŋ khrÛŋ_) – The two of them will meet in front of the restaurant at 12:30 PM.
+
+---
+
+### Key Target Vocabulary Breakdown
+
+#### 1. ตรงข้าม (_troŋkháam_)
+
+1. **Literal Translation**: Straight + cross/opposite.
+2. **Meaning**: Directly opposite to / Across from.
+3. **Word Breakdown**: **ตรง** (_troŋ_ – straight) + **ข้าม** (_kháam_ – cross over).
+4. **Cultural / Context**: Standard spatial preposition used when giving directions or explaining where a building or shop is located relative to another.
+5. **Usage**: Frequently used in daily conversations when directing taxi drivers or meeting friends.
+6. **Formality**: Neutral.
+7. **Daily Example**: **ร้านกาแฟอยู่ตรงข้ามธนาคาร** (_ráan kaa-fɛɛ yùu troŋkháam tha-naa-khaand_) – The coffee shop is across from the bank.
+8. **Synonyms**: **ฝั่งตรงข้าม** (_fàŋ troŋkháam_ – opposite side).
+9. **Thai Conversational Version**: **ร้านอาหารอยู่ตรงข้ามห้องสมุดครับ** (_ráan ?aahăan yùu troŋkháam hông samùt khráp_) – The restaurant is opposite the library.
+
+---
+
+#### 2. ถาม (_thăam_)
+
+1. **Literal Translation**: Ask / Inquire.
+2. **Meaning**: To ask a question or inquire about information.
+3. **Word Breakdown**: **ถาม** (_thăam_) – Rising tone.
+4. **Cultural / Context**: Fundamental verb for asking questions or seeking directions/help.
+5. **Usage**: Used daily when asking questions or making requests.
+6. **Formality**: Neutral.
+7. **Daily Example**: **ผมขอถามทางหน่อยครับ** (_phŏm khɔ̌ɔ thăam thaaŋ nɔ̀oy khráp_) – Can I ask for directions please?
+8. **Synonyms**: **สอบถาม** (_sɔ̀ɔp-thăam_ – formal inquire).
+9. **Thai Conversational Version**: **ผมอยากถามอะไรหน่อยครับ** (_phŏm yàak thăam ?aray nɔ̀oy khráp_) – I would like to ask something.
+
+---
+
+#### 3. พบกัน (_phóp kan_)
+
+1. **Literal Translation**: Meet + each other.
+2. **Meaning**: To meet up with one another.
+3. **Word Breakdown**: **พบ** (_phóp_ – meet) + **กัน** (_kan_ – each other).
+4. **Cultural / Context**: Commonly used when confirming meeting times or locations with friends or colleagues.
+5. **Usage**: Daily conversation for arranging appointments.
+6. **Formality**: Neutral to polite.
+7. **Daily Example**: **พรุ่งนี้เราจะพบกันที่ไหน** (_phhrùŋ-níi raw ca phóp kan thîi năy_) – Where will we meet tomorrow?
+8. **Synonyms**: **เจอกัน** (_cəə kan_ – casual everyday term).
+9. **Thai Conversational Version**: **เราจะพบกันตอนเที่ยงครึ่งครับ** (_raw ca phóp kan toon thiiaŋ khrÛŋ khráp_) – We will meet each other at 12:30 PM.
+
+---
+
+**Page 6 of _phuut thai 2.pdf_** (Lesson 1, Part A: โครงสร้างประโยค STRUCTURES) teaches **five core conversational sentence structures and grammar particles**. These structures allow you to propose group activities, express shared feelings, indicate upcoming actions, discuss past experiences, and ask for recommendations or lists of items.
+
+---
+
+### 1. **กัน** (_kan_) – Together / Joint Action
+
+1. **Literal Translation**: Together / Each other.
+2. **Meaning**: Placed after a verb to indicate that two or more people are doing an activity together or to propose a joint plan.
+3. **Word Breakdown**:
+    - **กัน** (_kan_) – Mid tone.
+    - **Cultural & Contextual Usage**: Essential in Thai culture, where eating and social activities are almost always shared. Used daily when inviting friends to join you for food, movies, or travel.
+    - **Formality**: Neutral to Casual.
+    - **Daily Example Sentence**: **ไปทานข้าวกันครับ** (_pay thaan khâaw kan khráp_) – Let's go eat together.
+    - **Synonyms**: **ด้วยกัน** (_dûay-kan_ – polite/neutral), **ร่วมกัน** (_ruam-kan_ – formal).
+4. **Thai Conversational Version**: **เราไปทานข้าวเที่ยงกันไหมครับ** (_raw pay thaan khâaw thîaŋ kan máy khráp_) – Shall we go eat lunch together?
+
+---
+
+### 2. **(ก็)...เหมือนกัน** (_(kɔ̂ɔ)...mǓan-kan_) – Also / Too / Likewise
+
+1. **Literal Translation**: Also + [verb/adjective] + same.
+2. **Meaning**: Used in the pattern **ก็ + [verb/adjective] + เหมือนกัน** to express that you share the same feeling, state, or action ("also/too").
+3. **Word Breakdown**:
+    - **ก็** (_kɔ̂ɔ_) – Falling tone (short). Meaning: Also / As well.
+    - **เหมือนกัน** (_mǓan-kan_) – Rising tone + Mid tone. Meaning: Likewise / Same.
+    - **Cultural & Contextual Usage**: Frequently used in polite social interactions to agree with someone or show empathy (e.g., "I'm hungry too" or "I like it too").
+    - **Formality**: Neutral.
+    - **Daily Example Sentence**: **ผมก็ชอบเหมือนกันครับ** (_phŏm kɔ̂ɔ chɔ̂ɔp mǓan-kan khráp_) – I like it too.
+    - **Synonyms**: **เช่นกัน** (_chên-kan_ – formal), **ด้วย** (_dûay_ – casual).
+4. **Thai Conversational Version**: **ผมก็หิวข้าวแล้วเหมือนกันครับ** (_phŏm kɔ̂ɔ hĭw khâaw lɛ́ɛw mǓan-kan khráp_) – I am hungry now too.
+
+---
+
+### 3. **เดี๋ยว** (_dĭaw_) – In a moment / Shortly / Soon
+
+1. **Literal Translation**: In a moment / Shortly.
+2. **Meaning**: Placed before a clause to indicate that an action will happen after a brief moment or right after a prior task is finished.
+3. **Word Breakdown**:
+    - **เดี๋ยว** (_dĭaw_) – Rising tone.
+    - **Cultural & Contextual Usage**: Used constantly in daily life when reassuring someone that you will join them or do something in just a minute.
+    - **Formality**: Casual to Neutral.
+    - **Daily Example Sentence**: **คุณไปก่อนนะ เดี๋ยวผมตามไป** (_khun pay kòon ná, dĭaw phŏm taam pay_) – You go first, I will follow in a moment.
+    - **Synonyms**: **อีกสักครู่** (_ʔìik sak khûu_ – formal "in a short moment"), **ประเดี๋ยว** (_pra-dĭaw_ – literary/dated).
+4. **Thai Conversational Version**: **คุณไปรอที่ร้านอาหารก่อนนะครับ เดี๋ยวผมตามไป** (_khun pay rɔɔ thîi ráan ?aahăan kòon ná khráp, dĭaw phŏm taam pay_) – Please go wait at the restaurant first, I will follow shortly.
+
+---
+
+### 4. **เคย** (_khəəy_) – Ever / Have experienced
+
+1. **Literal Translation**: Ever / Used to / Have [done].
+2. **Meaning**: Placed before a main verb to express past experience or a prior habit.
+3. **Word Breakdown**:
+    - **เคย** (_khəəy_) – Mid tone.
+    - **Cultural & Contextual Usage**: Standard auxiliary verb when asking friends about travel history, trying new foods, or past experiences.
+    - **Formality**: Neutral.
+    - **Daily Example Sentence**: **ผมเคยไปเมืองไทยครับ** (_phŏm khəəy pay mUaŋ thay khráp_) – I have been to Thailand before.
+    - **Synonyms**: **เคยชิน** (_khəəy-chin_ – accustomed to).
+4. **Thai Conversational Version**: **คุณเคยทานอาหารที่ร้านนั้นไหมครับ** (_khun khəəy thaan ?aahăan thîi ráan nán máy khráp_) – Have you ever eaten food at that restaurant?
+
+---
+
+### 5. **บ้าง** (_báaŋ_) – Some / What [plural list]
+
+1. **Literal Translation**: Some / What [plural items].
+2. **Meaning**: Placed at the end of a question to ask for a list or multiple options rather than just a single item.
+3. **Word Breakdown**:
+    - **บ้าง** (_báaŋ_) – Falling tone.
+    - **Cultural & Contextual Usage**: Used daily when looking at menus, asking what dishes are recommended, or asking what someone bought/did during their day.
+    - **Formality**: Neutral.
+    - **Daily Example Sentence**: **ที่นั่นมีอะไรอร่อยบ้างครับ** (_thîi nân mii ?aray ?aròy báaŋ khráp_) – What delicious things do they have there?
+    - **Synonyms**: **อะไรบ้าง** (_?aray báaŋ_ – "what specific things?").
+4. **Thai Conversational Version**: **ที่ร้านนี้มีอะไรอร่อยบ้างครับ** (_thîi ráan níi mii ?aray ?aròy báaŋ khráp_) – What recommended dishes are there at this restaurant?
+
+---
+
+**Page 7 of _phuut thai 2.pdf_** (Lesson 1, Part A: Exercises) provides **substitution drills and sentence structure practice (Exercise 1)**. It reinforces the five core conversational grammar structures taught on page 6 (**กัน** _kan_, **(ก็)...เหมือนกัน** _(kɔ̂ɔ)...mǓan-kan_, **เดี๋ยว** _dĭaw_, **เคย** _khəəy_, and **บ้าง** _báaŋ_) by having you form new sentences with varied vocabulary.
+
+This page leads directly into **Exercise 2** (which continues onto page 8), where you practice responding to specific conversational prompts using these target words in daily contexts.
+
+---
+
+### Detailed Breakdown of Key Sentence Patterns Practiced on Page 7
+
+#### 1. Proposing Joint Activities (**กัน** _kan_)
+
+- **Sentence**: **ไปดูหนังกันไหม** (_pay duu năŋ kan máy_)
+- **1. Literal Translation**: Go + watch + movie + together + question particle.
+- **2. Meaning**: Shall we go watch a movie together?
+- **3. Word Breakdown**:
+    - **ไป** (_pay_): Go
+        - _English Meaning & Context_: Verb of motion toward a location.
+        - _Usage_: Used constantly when heading somewhere or proposing an outing.
+        - _Formality_: Neutral.
+        - _Daily Example_: **ผมจะไปทานข้าว** (_phŏm ca pay thaan khâaw_) – I am going to eat.
+        - _Synonyms_: **ไปยัง** (_pay yaŋ_ – formal/literary).
+    - **ดู** (_duu_): Watch / Look at
+        - _English Meaning & Context_: To watch media, look at, or visually inspect something.
+        - _Usage_: Everyday verb for watching TV, movies, or observing sights.
+        - _Formality_: Neutral.
+        - _Daily Example_: **ดูนี่สิครับ** (_duu níi sì khráp_) – Look at this!
+        - _Synonyms_: **มอง** (_mɔɔŋ_ – look at), **ชม** (_chom_ – formal).
+    - **หนัง** (_năŋ_): Movie / Film
+        - _English Meaning & Context_: Everyday conversational word for cinema/film (short for **ภาพยนตร์**).
+        - _Usage_: Used daily when talking about movies.
+        - _Formality_: Neutral / Conversational.
+        - _Daily Example_: **หนังเรื่องนี้สนุกมาก** (_năŋ rUaŋ níi sanùk mâak_) – This movie is very fun.
+        - _Synonyms_: **ภาพยนตร์** (_phâap-pha-yon_ – formal/official).
+    - **กัน** (_kan_): Together / Joint action marker
+        - _English Meaning & Context_: Particle placed after verbs indicating an action done together with others.
+        - _Usage_: Essential for proposing joint plans or outings with friends.
+        - _Formality_: Neutral.
+        - _Daily Example_: **ไปกันเถอะ** (_pay kan thə̀_) – Let's go together!
+        - _Synonyms_: **ด้วยกัน** (_dûay-kan_ – polite/neutral).
+    - **ไหม** (_máy_): Question particle
+        - _English Meaning & Context_: Standard high-tone question particle for yes/no questions.
+        - _Usage_: Placed at the end of invitations or questions seeking confirmation.
+        - _Formality_: Neutral.
+        - _Daily Example_: **อร่อยไหมครับ** (_?aròy máy khráp_) – Is it delicious?
+        - _Synonyms_: **หรือเปล่า** (_rUu plàaw_).
+- **9. Thai Conversational Version**:
+    - **เราไปดูหนังด้วยกันไหมครับ** (_raw pay duu năŋ dûay kan máy khráp_)
+    - _Translation_: Shall we go watch a movie together?
+
+---
+
+#### 2. Asking for Recommendations or Plural Lists (**บ้าง** _báaŋ_)
+
+- **Sentence**: **ที่นั่นมีอะไรอร่อยบ้าง** (_thîi nân mii ?aray ?aròy báaŋ_)
+- **1. Literal Translation**: At + there + have + what + delicious + [plural list marker].
+- **2. Meaning**: What delicious dishes do they have there?
+- **3. Word Breakdown**:
+    - **ที่นั่น** (_thîi nân_): There / That place
+        - _English Meaning & Context_: Pronoun for a location away from the speaker.
+        - _Usage_: Daily speech when discussing a specific restaurant, shop, or venue.
+        - _Formality_: Neutral.
+        - _Daily Example_: **ที่นั่นสวยมาก** (_thîi nân sŭay mâak_) – That place is very beautiful.
+        - _Synonyms_: **ตรงนั้น** (_troŋ nán_ – right there).
+    - **มี** (_mii_): Have / There is
+        - _English Meaning & Context_: Verb indicating existence or possession.
+        - _Usage_: Used constantly in daily conversation.
+        - _Formality_: Neutral.
+        - _Daily Example_: **มีเมนูไหมครับ** (_mii mee-nuu máy khráp_) – Do you have a menu?
+    - **อะไร** (_?aray_): What
+        - _English Meaning & Context_: Standard question word for "what".
+        - _Usage_: Everyday word for asking about items, actions, or details.
+        - _Formality_: Neutral.
+        - _Daily Example_: **คุณชอบทานอะไรครับ** (_khun chɔ̂ɔp thaan ?aray khráp_) – What do you like to eat?
+        - _Synonyms_: **สิ่งใด** (_sìŋ day_ – formal).
+    - **อร่อย** (_?aròy_): Delicious / Tasty
+        - _English Meaning & Context_: Core culinary term expressing enjoyment of food.
+        - _Usage_: Universal daily expression after eating or when ordering food.
+        - _Formality_: Neutral.
+        - _Daily Example_: **อาหารไทยอร่อยมาก** (_?aahăan thay ?aròy mâak_) – Thai food is very delicious.
+        - _Synonyms_: **แซ่บ** (_sɛ̂ɛp_ – casual/Isan dialect for flavor/spiciness).
+    - **บ้าง** (_báaŋ_): Plural list marker / Some
+        - _English Meaning & Context_: Particle appended to questions signaling that the answer should contain a list or multiple items.
+        - _Usage_: Added to question words (**อะไรบ้าง**, **ใครบ้าง**) when asking for recommendations or lists.
+        - _Formality_: Neutral.
+        - _Daily Example_: **คุณซื้ออะไรมาบ้างครับ** (_khun sÚu ?aray maa báaŋ khráp_) – What things did you buy?
+- **9. Thai Conversational Version**:
+    - **ที่ร้านนั้นมีอะไรอร่อยบ้างครับ** (_thîi ráan nán mii ?aray ?aròy báaŋ khráp_)
+    - _Translation_: What recommended delicious dishes do they have at that restaurant?
+
+---
+
+#### 3. Indicating a Quick Subsequent Action (**เดี๋ยว** _dĭaw_)
+
+- **Sentence**: **เดี๋ยวผมจะตามไป** (_dĭaw phŏm ca taam pay_)
+- **1. Literal Translation**: Soon/in a moment + I (male) + will + follow + go.
+- **2. Meaning**: I will follow you shortly / I'll join you in a minute.
+- **3. Word Breakdown**:
+    - **เดี๋ยว** (_dĭaw_): In a moment / Shortly / Soon
+        - _English Meaning & Context_: Temporal adverb indicating an action happening after a brief interval.
+        - _Usage_: Daily speech when letting someone know you will do something right away or catch up soon.
+        - _Formality_: Neutral to Casual.
+        - _Daily Example_: **เดี๋ยวเจอกันครับ** (_dĭaw cəə kan khráp_) – See you in a moment!
+        - _Synonyms_: **อีกสักครู่** (_ʔìik sak khûu_ – formal).
+    - **ผม** (_phŏm_): I / Me (male speaker)
+        - _English Meaning & Context_: Standard first-person male pronoun.
+        - _Usage_: Polite pronoun used by males in all general social settings.
+        - _Formality_: Polite / Neutral.
+        - _Daily Example_: **ผมเป็นนักเรียนครับ** (_phŏm pen nák-rian khráp_) – I am a student.
+        - _Synonyms_: **กระผม** (_kra-phŏm_ – formal male).
+    - **จะ** (_ca_): Will / Shall (future tense marker)
+        - _English Meaning & Context_: Auxiliary verb indicating future action or intention.
+        - _Usage_: Precedes main verbs whenever discussing future plans.
+        - _Formality_: Neutral.
+        - _Daily Example_: **ผมจะไปทานข้าว** (_phŏm ca pay thaan khâaw_) – I will go eat.
+    - **ตามไป** (_taam pay_): Follow along / Go after
+        - _English Meaning & Context_: Compound verb (**ตาม** _follow_ + **ไป** _go_).
+        - _Usage_: Used when letting a friend go ahead first while you follow right behind.
+        - _Formality_: Neutral.
+        - _Daily Example_: **คุณไปก่อนเลย เดี๋ยวผมตามไป** (_khun pay kòon ləəy, dĭaw phŏm taam pay_) – Go ahead first, I'll follow shortly.
+- **9. Thai Conversational Version**:
+    - **คุณไปรอที่ร้านก่อนนะครับ เดี๋ยวผมตามไปครับ** (_khun pay rɔɔ thîi ráan kòon ná khráp, dĭaw phŏm taam pay khráp_)
+    - _Translation_: Please go wait at the restaurant first, I'll follow you in a minute.
+
+---
+
+#### 4. Expressing Past Experience (**เคย** _khəəy_)
+
+- **Sentence**: **ผมเคยไปทานที่นั่น** (_phŏm khəəy pay thaan thîi nân_)
+- **1. Literal Translation**: I (male) + ever/used to + go + eat + at + there.
+- **2. Meaning**: I have eaten there before.
+- **3. Word Breakdown**:
+    - **เคย** (_khəəy_): Ever / Have experienced / Used to
+        - _English Meaning & Context_: Auxiliary verb denoting past experience or prior habits.
+        - _Usage_: Precedes the main verb when sharing travel history or personal experiences.
+        - _Formality_: Neutral.
+        - _Daily Example_: **ผมเคยไปเชียงใหม่** (_phŏm khəəy pay chĭaŋ-mày_) – I have been to Chiang Mai before.
+        - _Synonyms_: **เคยชิน** (_khəəy-chin_ – accustomed to).
+    - **ทาน** (_thaan_): Eat / Consume
+        - _English Meaning & Context_: Polite verb for eating (short form of **รับประทาน**).
+        - _Usage_: Daily polite speech with friends, teachers, and colleagues.
+        - _Formality_: Polite / Neutral.
+        - _Daily Example_: **ทานข้าวด้วยกันไหมครับ** (_thaan khâaw dûay kan máy khráp_) – Would you like to eat together?
+        - _Synonyms_: **กิน** (_kin_ – casual), **รับประทาน** (_ráp-pra-thaan_ – formal).
+- **9. Thai Conversational Version**:
+    - **ผมเคยไปทานอาหารที่ร้านนั้นแล้วครับ** (_phŏm khəəy pay thaan ?aahăan thîi ráan nán lɛ́ɛw khráp_)
+    - _Translation_: I have already eaten at that restaurant before.
+
+---
+
+**Page 8 of _phuut thai 2.pdf_** (Lesson 1, Part A: Exercises) contains **Exercise 2: Conversational Response Practice**, where you respond to 7 specific conversational prompts using target grammar words (**กัน** _kan_, **เคย** _khəəy_, **เดี๋ยว** _dĭaw_, **กันไหม** _kan máy_, **บ้าง** _báaŋ_, **เหมือนกัน** _mǓan-kan_, and **ตอน** _toon_).
+
+---
+
+### Prompts & Target Word Breakdown from Page 8
+
+#### 1. Prompt i: Proposing Joint Plans (**กัน** _kan_)
+
+- **Prompt Question**: **ไปดูหนังกันไหม** (_pay duu năŋ kan máy_) – Shall we go watch a movie?
+- **Target Response**: **ดีค่ะ ดูเรื่องซุปเปอร์แมนกันดีไหม** (_dii khâ, duu rUaŋ súp-pəə-mɛɛn kan dii máy_) – Great! Shall we watch Superman together?
+- **Target Word**: **กัน** (_kan_)
+    1. **Literal Translation**: Together / Each other.
+    2. **Meaning**: Particle indicating joint action done together with others.
+    3. **Word Breakdown**: **กัน** (_kan_) – Mid tone.
+    4. **English Meaning & Context**: Placed after verbs when inviting friends to do an activity as a group.
+    5. **Modern Usage**: Used constantly in daily conversation when making social plans or inviting friends for meals, movies, or trips.
+    6. **Formality**: Neutral to Casual.
+    7. **Daily Example Sentence**: **เราไปทานข้าวเที่ยงกันครับ** (_raw pay thaan khâaw thîaŋ kan khráp_) – Let's go eat lunch together.
+    8. **Synonyms**: **ด้วยกัน** (_dûay-kan_ – polite/neutral), **ร่วมกัน** (_ruam-kan_ – formal).
+    9. **Thai Conversational Version**: **ไปทานข้าวกันไหมครับ** (_pay thaan khâaw kan máy khráp_) – Shall we go eat together?
+
+---
+
+#### 2. Prompt ii: Expressing Past Experience (**เคย** _khəəy_)
+
+- **Prompt Question**: **ที่นั่นมีอะไรอร่อยบ้าง** (_thîi nân mii ?aray ?aròy báaŋ_) – What delicious things do they have there?
+- **Sample Response**: **ผมเคยไปทานแล้ว มีข้าวผัดกะเพราอร่อยมากครับ** (_phŏm khəəy pay thaan lɛ́ɛw, mii khâaw phàt kaphraw ?aròy mâak khráp_) – I have eaten there before; the chicken basil fried rice is very delicious.
+- **Target Word**: **เคย** (_khəəy_)
+    1. **Literal Translation**: Ever / Used to.
+    2. **Meaning**: Auxiliary verb indicating that you have done or experienced an action in the past.
+    3. **Word Breakdown**: **เคย** (_khəəy_) – Mid tone.
+    4. **English Meaning & Context**: Placed directly before the main verb to denote personal experience.
+    5. **Modern Usage**: Everyday speech when sharing past experiences, trips, or meals eaten.
+    6. **Formality**: Neutral.
+    7. **Daily Example Sentence**: **ผมเคยไปเชียงใหม่ครับ** (_phŏm khəəy pay chĭaŋ-mày khráp_) – I have been to Chiang Mai before.
+    8. **Synonyms**: **เคยชิน** (_khəəy-chin_ – accustomed to).
+    9. **Thai Conversational Version**: **ผมเคยไปทานอาหารที่ร้านนั้นครับ** (_phŏm khəəy pay thaan ?aahăan thîi ráan nán khráp_) – I have eaten at that restaurant before.
+
+---
+
+#### 3. Prompt iii: Immediate Future Action (**เดี๋ยว** _dĭaw_)
+
+- **Prompt Question**: **จะไปไหน** (_ca pay năy_) – Where are you going?
+- **Sample Response**: **เดี๋ยวผมจะไปห้องสมุดครับ** (_dĭaw phŏm ca pay hông samùt khráp_) – I am going to the library in a moment.
+- **Target Word**: **เดี๋ยว** (_dĭaw_)
+    1. **Literal Translation**: In a moment / Soon / Shortly.
+    2. **Meaning**: Temporal adverb indicating that an action will happen after a brief interval.
+    3. **Word Breakdown**: **เดี๋ยว** (_dĭaw_) – Rising tone.
+    4. **English Meaning & Context**: Used to tell someone you will perform an action shortly or follow them in a minute.
+    5. **Modern Usage**: Extremely common when reassuring someone about upcoming actions.
+    6. **Formality**: Casual to Neutral.
+    7. **Daily Example Sentence**: **เดี๋ยวผมตามไปครับ** (_dĭaw phŏm taam pay khráp_) – I will follow you in a moment.
+    8. **Synonyms**: **อีกสักครู่** (_ʔìik sak khûu_ – formal "in a short moment").
+    9. **Thai Conversational Version**: **เดี๋ยวเจอกันที่หน้าร้านครับ** (_dĭaw cəə kan thîi nâa ráan khráp_) – See you in front of the shop shortly.
+
+---
+
+#### 4. Prompt iv: Invitation Particle (**กันไหม** _kan máy_)
+
+- **Prompt Question**: **หิวหรือยัง** (_hĭw rú yaŋ_) – Are you hungry yet?
+- **Sample Response**: **หิวแล้ว ไปทานข้าวกันไหมครับ** (_hĭw lɛ́ɛw, pay thaan khâaw kan máy khráp_) – I am hungry already. Shall we go eat together?
+- **Target Word**: **กันไหม** (_kan máy_)
+    1. **Literal Translation**: Together + [question particle] = Shall we [do activity] together?
+    2. **Meaning**: Conversational invitation phrase appended to action verbs.
+    3. **Word Breakdown**: **กัน** (_kan_ – together) + **ไหม** (_máy_ – question particle).
+    4. **English Meaning & Context**: Used when suggesting shared activities politely to friends.
+    5. **Modern Usage**: Universal phrase for proposing lunch, coffee, or outings.
+    6. **Formality**: Neutral.
+    7. **Daily Example Sentence**: **ไปดื่มกาแฟกันไหมครับ** (_pay dUum kaa-fɛɛ kan máy khráp_) – Shall we go drink coffee together?
+    8. **Synonyms**: **ด้วยกันไหม** (_dûay-kan máy_).
+    9. **Thai Conversational Version**: **ไปทานข้าวเที่ยงกันไหมครับ** (_pay thaan khâaw thîaŋ kan máy khráp_) – Shall we go eat lunch together?
+
+---
+
+#### 5. Prompt v: Plural List Question Particle (**บ้าง** _báaŋ_)
+
+- **Prompt Question**: **เจนเคยไปทานที่ร้านตรงข้ามห้องสมุดหรือยัง** (_ceen khəəy pay thaan thîi ráan troŋ kháam hông samùt rú yaŋ_) – Has Jane ever eaten at the restaurant opposite the library yet?
+- **Sample Response**: **เคยแล้ว ที่นั่นมีอะไรอร่อยบ้างครับ** (_khəəy lɛ́ɛw, thîi nân mii ?aray ?aròy báaŋ khráp_) – Yes, she has. What delicious things do they have there?
+- **Target Word**: **บ้าง** (_báaŋ_)
+    1. **Literal Translation**: Some / What [plural list].
+    2. **Meaning**: Question particle indicating that the answer should contain multiple items or a list.
+    3. **Word Breakdown**: **บ้าง** (_báaŋ_) – Falling tone.
+    4. **English Meaning & Context**: Appended to question words like **อะไร** (_what_) or **ใคร** (_who_) when asking for recommendations.
+    5. **Modern Usage**: Frequently used when asking what dishes are good or what someone bought at the market.
+    6. **Formality**: Neutral.
+    7. **Daily Example Sentence**: **มีอะไรแนะนำบ้างครับ** (_mii ?aray nae-nam báaŋ khráp_) – What recommendations do you have?
+    8. **Synonyms**: **อะไรบ้าง** (_?aray báaŋ_ – what specific items?).
+    9. **Thai Conversational Version**: **ที่ร้านนี้มีอะไรอร่อยบ้างครับ** (_thîi ráan níi mii ?aray ?aròy báaŋ khráp_) – What delicious dishes do they have at this restaurant?
+
+---
+
+#### 6. Prompt vi: Expressing Agreement / Shared Feeling (**เหมือนกัน** _mǓan-kan_)
+
+- **Prompt Question**: **ข้าวมันไก่ที่สิงคโปร์อร่อยมาก** (_khâaw man kày thîi sĭŋ-kha-poo ?aròy mâak_) – Hainanese chicken rice in Singapore is very delicious.
+- **Sample Response**: **ข้าวมันไก่ที่ไทยก็อร่อยเหมือนกันครับ** (_khâaw man kày thîi thay kɔ̂ɔ ?aròy mǓan-kan khráp_) – Chicken rice in Thailand is also delicious.
+- **Target Word**: **เหมือนกัน** (_mǓan-kan_)
+    1. **Literal Translation**: Same / Likewise.
+    2. **Meaning**: Used in the pattern **ก็...เหมือนกัน** (_kɔ̂ɔ...mǓan-kan_) to mean "also / too / likewise".
+    3. **Word Breakdown**: **เหมือน** (_mǓan_ – similar) + **กัน** (_kan_ – together/each other).
+    4. **English Meaning & Context**: Used to agree with a statement or show that you share the same feeling/opinion.
+    5. **Modern Usage**: Essential polite phrase in social interactions.
+    6. **Formality**: Neutral.
+    7. **Daily Example Sentence**: **ผมก็ชอบทานอาหารไทยเหมือนกันครับ** (_phŏm kɔ̂ɔ chɔ̂ɔp thaan ?aahăan thay mǓan-kan khráp_) – I like eating Thai food too.
+    8. **Synonyms**: **เช่นกัน** (_chên-kan_ – formal).
+    9. **Thai Conversational Version**: **ผมก็หิวแล้วเหมือนกันครับ** (_phŏm kɔ̂ɔ hĭw lɛ́ɛw mǓan-kan khráp_) – I am hungry now too.
+
+---
+
+#### 7. Prompt vii: Time Marker (**ตอน** _toon_)
+
+- **Prompt Question**: **หิวหรือยัง ไปกินข้าวเย็นกันไหม** (_hĭw rú yaŋ, pay kin khâaw yen kan máy_) – Are you hungry yet? Shall we go eat dinner together?
+- **Sample Response**: **เราจะไปทานกันตอนกี่โมงดีครับ** (_raw ca pay thaan kan toon kìi mooŋ dii khráp_) – What time shall we go eat together?
+- **Target Word**: **ตอน** (_toon_)
+    1. **Literal Translation**: At / During / Time.
+    2. **Meaning**: Time preposition placed before specific times of day or hours.
+    3. **Word Breakdown**: **ตอน** (_toon_) – Mid tone.
+    4. **English Meaning & Context**: Used before time words (e.g., **ตอนเช้า** = in the morning, **ตอนเที่ยง** = at noon, **ตอนเย็น** = in the evening, **ตอนกี่โมง** = at what time).
+    5. **Modern Usage**: Daily requirement for specifying schedule details.
+    6. **Formality**: Neutral.
+    7. **Daily Example Sentence**: **เราจะเจอกันตอนเที่ยงครับ** (_raw ca cəə kan toon thîaŋ khráp_) – We will meet at noon.
+    8. **Synonyms**: **เวลา** (_wee-laa_ – time/formal).
+    9. **Thai Conversational Version**: **เจอกันตอนเที่ยงครึ่งครับ** (_cəə kan toon thîaŋ khrÛŋ khráp_) – See you at 12:30 PM.
+    10. **ตอน** (_toon_): **English Meaning & Context**: At / During / In (time preposition).
+
+---
+
+![[Screenshot_2026-10-13T20-24-06_UTC+0800.png]]
+
+![[Screenshot_2026-10-13T20-24-50_UTC+0800.png]]
+

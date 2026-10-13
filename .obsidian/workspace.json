@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5004db9f986cc085",
+        "id": "26d27ce5e345f988",
         "type": "tabs",
         "children": [
           {
-            "id": "9bae94274936f9c5",
+            "id": "f87e2b42416003aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -185,11 +185,50 @@
       "bases:Create new base": false
     }
   },
-  "active": "9bae94274936f9c5",
+  "floating": {
+    "id": "44c530663bcaf67d",
+    "type": "floating",
+    "children": [
+      {
+        "id": "406cc2c5ff18cab5",
+        "type": "window",
+        "children": [
+          {
+            "id": "df291f5f38166a83",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2e5637377477a73e",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "level2-0/phuut thai 2.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "phuut thai 2"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -6,
+        "y": 34,
+        "width": 1315,
+        "height": 884,
+        "maximize": true,
+        "zoom": 1
+      }
+    ]
+  },
+  "active": "f87e2b42416003aa",
   "lastOpenFiles": [
-    "level2-0/Aan Khian Thai 2.pdf",
-    "level2-0/2026-10-13/class-notes-2026-10-13.md",
+    "level2-0/2026-10-13/Screenshot_2026-10-13T20-24-50_UTC+0800.png",
+    "level2-0/2026-10-13/Screenshot_2026-10-13T20-24-06_UTC+0800.png",
     "level2-0/phuut thai 2.pdf",
+    "level2-0/2026-10-13/class-notes-2026-10-13.md",
+    "level2-0/Aan Khian Thai 2.pdf",
     "level2-0/2026-10-13",
     "level2-0/2026-10-08/class-note-2026-10-08.md",
     "level2-0/2026-10-06/class-note-2026-10-06.md",
@@ -207,7 +246,6 @@
     "level2-0/2026-09-29/WhatsApp Image 2026-09-29 at 7.38.14 PM 1.jpeg",
     "level2-0/2026-09-29/WhatsApp Image 2026-09-29 at 7.38.32 PM.jpeg",
     "level2-0/2026-09-29/WhatsApp Image 2026-09-29 at 7.38.37 PM.jpeg",
-    "level2-0/2026-09-29/WhatsApp Image 2026-09-29 at 7.38.24 PM.jpeg",
     "level2-0/2026-09-29",
     "level2-0/2026-09-22",
     "level2-0/2026-09-22/Thai Level 2 Class Note.pdf",
