@@ -670,3 +670,158 @@ The exercise combines 6 visual picture prompts across the two pages:
 
 ---
 
+On page 20, Section 4 of _phuut thai 2.pdf_, you learn how to form corresponding response and suggestion sentences using the conversational transition **ถ้ายั้งงั้น** (_thâa yaŋ-ŋán_ = "In that case..." / "If so...").
+
+This section presents six prompt-and-response conversational scenarios where one speaker states a situation or plan (a), and you practice completing a logical reaction or suggestion (b) starting with **ถ้ายั้งงั้น**.
+
+---
+
+### Key Target Structure: **ถ้ายั้งงั้น** (_thâa yaŋ-ŋán_)
+
+1. **Literal Translation**: If + like that / in that manner.
+2. **Meaning**: "In that case..." / "If so..." / "Then...".
+3. **Word Breakdown**:
+    - **ถ้า** (_thâa_ – Falling tone)
+    - **ยั้งงั้น** (_yaŋ-ŋán_ – High + High tone, spoken contraction of **อย่างนั้น** _yàaŋ-nán_)
+4. **English Meaning, Cultural & Historical Context**:
+    - **ถ้า**: Conditional conjunction ("if").
+    - **ยั้งงั้น**: Conversational spoken contraction of **อย่างนั้น**. In Thai social interactions, using **ถ้ายั้งงั้น** allows a speaker to respond empathetically, offer a favor, or adapt plans smoothly after receiving new information.
+5. **Usage in Modern Daily Conversation**: Used constantly at the start of a sentence when making a suggestion, offering a favor, or proposing an alternative plan after hearing someone's situation.
+6. **Formality Level**: Casual to Neutral (spoken Thai).
+7. **Daily Example Sentence**: **ถ้ายั้งงั้น เราไปทานข้าวกันเลยครับ** (_thâa yaŋ-ŋán, raw pay thaan khâaw kan ləəy khráp_) – In that case, let's go eat right now!
+8. **Synonyms**: **ถ้าอย่างนั้น** (_thâa yàaŋ-nán_ – formal/polite), **งั้น** (_ŋán_ – casual short form).
+9. **Thai Conversational Version**: **ถ้ายั้งงั้น คุณพักผ่อนเยอะๆ นะครับ** (_thâa yaŋ-ŋán khun phák-phɔ̀ɔn yə́ yə́ ná khráp_) – In that case, rest up a lot!
+
+---
+
+### Step-by-Step Breakdown of the 6 Items on Page 20 (Section 4)
+
+#### Item 1: Cafeteria Favor
+
+- **Prompt a**: **เดี๋ยวฉันจะไปโรงอาหาร** (_dĭaw chán ca pay rooŋ ?aa-hăan_)
+- **Example Response b**: **ถ้ายั้งงั้น ช่วยซื้อกาแฟเย็นให้หน่อยได้ไหม** (_thâa yaŋ-ŋán chûay sÚu kaa-fɛɛ yen hây nɔ̀oy dâay máy_)
+
+1. **Literal Translation**:
+    - **a**: In a moment + I + will + go + cafeteria.
+    - **b**: In that case + help + buy + coffee + iced + for + a little + can + [question particle].
+2. **Meaning**:
+    - **a**: "In a moment I'm going to the cafeteria."
+    - **b**: "In that case, could you please buy me an iced coffee?"
+3. **Word Breakdown**: **เดี๋ยว** (_dĭaw_ – soon) + **ฉัน** (_chán_ – I) + **จะ** (_ca_ – will) + **ไป** (_pay_ – go) + **โรงอาหาร** (_rooŋ ?aa-hăan_ – cafeteria) | **ถ้ายั้งงั้น** (_thâa yaŋ-ŋán_ – in that case) + **ช่วย** (_chûay_ – help) + **ซื้อ** (_sÚu_ – buy) + **กาแฟเย็น** (_kaa-fɛɛ yen_ – iced coffee) + **ให้** (_hây_ – for) + **หน่อย** (_nɔ̀oy_ – polite particle) + **ได้ไหม** (_dâay máy_ – can you?).
+4. **Context**: Asking a classmate or colleague heading to the canteen for a drink run.
+5. **Usage**: Daily workplace or school favor request.
+6. **Formality**: Neutral.
+7. **Daily Example**: **ถ้ายั้งงั้น ฝากซื้อน้ำเปล่าหน่อยครับ** (_thâa yaŋ-ŋán fâak sÚu náam plàaw nɔ̀oy khráp_).
+8. **Synonyms**: **ถ้าอย่างนั้น** (_thâa yàaŋ-nán_).
+9. **Thai Conversational Version**: **ถ้ายั้งงั้น ฝากซื้อกาแฟเย็นให้หน่อยนะครับ** (_thâa yaŋ-ŋán fâak sÚu kaa-fɛɛ yen hây nɔ̀oy ná khráp_).
+
+---
+
+#### Item 2: Going to the Market
+
+- **Prompt a**: **เดี๋ยวสีจะไปตลาด** (_dĭaw sĭi ca pay talàat_)
+- **Target Response b**: **ถ้ายั้งงั้น ฝากซื้อผลไม้หน่อย** (_thâa yaŋ-ŋán fâak sÚu phŏn-la-máay nɔ̀oy_)
+
+1. **Literal Translation**:
+    - **a**: In a moment + Sii + will + go + market.
+    - **b**: In that case + entrust + buy + fruit + a little.
+2. **Meaning**:
+    - **a**: "In a moment See is going to the market."
+    - **b**: "In that case, please buy some fruit for me."
+3. **Word Breakdown**: **สี** (_sĭi_ – name Sii) + **ตลาด** (_talàat_ – market) | **ฝาก** (_fâak_ – entrust/ask favor) + **ผลไม้** (_phŏn-la-máay_ – fruit).
+4. **Context**: Entrusting someone with market purchases.
+5. **Usage**: Daily household or peer conversation.
+6. **Formality**: Neutral.
+7. **Daily Example**: **ถ้ายั้งงั้น ฝากซื้อผลไม้ด้วยครับ** (_thâa yaŋ-ŋán fâak sÚu phŏn-la-máay dûay khráp_).
+8. **Synonyms**: **ถ้าอย่างนั้น** (_thâa yàaŋ-nán_).
+9. **Thai Conversational Version**: **ถ้ายั้งงั้น ฝากซื้อผลไม้หน่อยนะครับ** (_thâa yaŋ-ŋán fâak sÚu phŏn-la-máay nɔ̀oy ná khráp_).
+![[Screenshot_2026-10-22T20-31-10_UTC+0800.png]]
+
+![[Screenshot_2026-10-22T20-31-32_UTC+0800.png]]
+
+---
+
+#### Item 3: Family Dinner Plans
+
+- **Prompt a**: **พ่อ: ลูกบอกว่าจะไปกินข้าวที่บ้านเพื่อนแล้วไปดูหนัง** (_phɔ̂ɔ: lûuk bɔ̀ɔk wâa ca pay kin khâaw thîi báan phûan lɛ́ɛw pay duu năŋ_)
+- **Target Response b**: **แม่: ถ้ายั้งงั้น ก็ไม่ต้องทำอาหารเย็น** (_mɛ̂ɛ: thâa yaŋ-ŋán kɔ̂ɔ mây tɔ̂ɔŋ tham ?aa-hăan yen_)
+
+1. **Literal Translation**:
+    - **a**: Father: Child + say + that + will + go + eat + food + at + house + friend + then + go + watch + movie.
+    - **b**: Mother: In that case + so + not + must + make + food + evening.
+2. **Meaning**:
+    - **a**: "Father: Our child said they're going to eat at a friend's house and then watch a movie."
+    - **b**: "Mother: In that case, we don't need to cook dinner."
+3. **Word Breakdown**: **พ่อ** (_phɔ̂ɔ_ – father) + **ลูก** (_lûuk_ – child) + **บ้านเพื่อน** (_báan phûan_ – friend's house) + **ดูหนัง** (_duu năŋ_ – watch movie) | **แม่** (_mɛ̂ɛ_ – mother) + **ไม่ต้อง** (_mây tɔ̂ɔŋ_ – no need to) + **ทำอาหารเย็น** (_tham ?aa-hăan yen_ – cook dinner).
+4. **Context**: Adjusting household cooking duties based on schedule updates.
+5. **Usage**: Daily home conversation.
+6. **Formality**: Neutral / Casual.
+7. **Daily Example**: **ถ้ายั้งงั้น เย็นนี้ไม่ต้องทำอาหารครับ** (_thâa yaŋ-ŋán yen níi mây tɔ̂ɔŋ tham ?aa-hăan khráp_).
+8. **Synonyms**: **ถ้าอย่างนั้น** (_thâa yàaŋ-nán_).
+9. **Thai Conversational Version**: **ถ้ายั้งงั้น เย็นนี้ไม่ต้องทำอาหารนะครับ** (_thâa yaŋ-ŋán yen níi mây tɔ̂ɔŋ tham ?aa-hăan ná khráp_).
+
+---
+
+#### Item 4: Crowded Restaurant Alternative
+
+- **Prompt a**: **ปู่: อยากกินเบอร์เกอร์ปลา แต่ที่ร้านมีคนมากไป** (_pùu: yàak kin bəə-kəə plaa tɛ̀ɛ thîi ráan mii khon mâak pay_)
+- **Target Response b**: **หลาน: ถ้ายั้งงั้น เราไปทานร้านอื่นกันไหม** (_lăan: thâa yaŋ-ŋán raw pay thaan ráan Ùun kan máy_)
+
+1. **Literal Translation**:
+    - **a**: Grandfather: Want + eat + burger + fish + but + at + shop + have + person + too much + go.
+    - **b**: Grandchild: In that case + we + go + eat + shop + other + together + [question particle].
+2. **Meaning**:
+    - **a**: "Grandfather: I want to eat a fish burger, but the shop is too crowded."
+    - **b**: "Grandchild: In that case, shall we go eat at another shop?"
+3. **Word Breakdown**: **ปู่** (_pùu_ – paternal grandfather) + **เบอร์เกอร์ปลา** (_bəə-kəə plaa_ – fish burger) + **คนมากไป** (_khon mâak pay_ – too crowded) | **หลาน** (_lăan_ – grandchild) + **ร้านอื่น** (_ráan Ùun_ – another shop).
+4. **Context**: Suggesting an alternative venue when a venue is busy.
+5. **Usage**: Dining out with family.
+6. **Formality**: Neutral.
+7. **Daily Example**: **ถ้ายั้งงั้น เราไปทานร้านอื่นกันครับ** (_thâa yaŋ-ŋán raw pay thaan ráan Ùun kan khráp_).
+8. **Synonyms**: **ถ้าอย่างนั้น** (_thâa yàaŋ-nán_).
+9. **Thai Conversational Version**: **ถ้ายั้งงั้น เราไปทานร้านอื่นกันไหมครับ** (_thâa yaŋ-ŋán raw pay thaan ráan Ùun kan máy khráp_).
+
+---
+
+#### Item 5: Sick Friend
+
+- **Prompt a**: **เจน: ฉันไม่สบาย ไปเรียนไม่ได้** (_ceen: chán mây sabaay, pay rian mây dâay_)
+- **Target Response b**: **จูน: ถ้ายั้งงั้น พักผ่อนเยอะๆ นะ** (_cuun: thâa yaŋ-ŋán phák-phɔ̀ɔn yə́ yə́ ná_)
+
+1. **Literal Translation**:
+    - **a**: Jane: I + not + comfortable/well, + go + study + cannot.
+    - **b**: June: In that case + rest + plenty + [softening particle].
+2. **Meaning**:
+    - **a**: "Jane: I am not feeling well, I can't go to class."
+    - **b**: "June: In that case, rest up a lot, okay?"
+3. **Word Breakdown**: **ไม่สบาย** (_mây sabaay_ – unwell/sick) + **ไปเรียนไม่ได้** (_pay rian mây dâay_ – cannot go to class) | **พักผ่อน** (_phák-phɔ̀ɔn_ – rest) + **เยอะๆ** (_yə́ yə́_ – plenty/a lot).
+4. **Context**: Expressing care and advice to a classmate who is sick.
+5. **Usage**: Daily peer conversation.
+6. **Formality**: Neutral.
+7. **Daily Example**: **ถ้ายั้งงั้น คุณพักผ่อนเยอะๆ นะครับ** (_thâa yaŋ-ŋán khun phák-phɔ̀ɔn yə́ yə́ ná khráp_).
+8. **Synonyms**: **ถ้าอย่างนั้น** (_thâa yàaŋ-nán_).
+9. **Thai Conversational Version**: **ถ้ายั้งงั้น ขอให้หายไวๆ นะครับ** (_thâa yaŋ-ŋán khɔ̌ɔ hây hăay wai wai ná khráp_ – In that case, get well soon!).
+
+---
+
+#### Item 6: Meeting Professor Before Home
+
+- **Prompt a**: **พี่: พี่ต้องไปพบอาจารย์ก่อนกลับบ้าน** (_phîi: phîi tɔ̂ŋ pay phóp ?aacaan kòon klàp báan_)
+- **Target Response b**: **น้อง: ถ้ายั้งงั้น น้องจะรอที่ห้องสมุดนะ** (_nóoŋ: thâa yaŋ-ŋán nóoŋ ca rɔɔ thîi hông-samùt ná_)
+
+1. **Literal Translation**:
+    - **a**: Older Sibling: Older sibling + must + go + meet + professor + before + return + home.
+    - **b**: Younger Sibling: In that case + younger sibling + will + wait + at + library + [particle].
+2. **Meaning**:
+    - **a**: "Older Sibling: I must go see the professor before returning home."
+    - **b**: "Younger Sibling: In that case, I will wait at the library, okay?"
+3. **Word Breakdown**: **พี่** (_phîi_ – older sibling) + **พบอาจารย์** (_phóp ?aa-caan_ – meet professor) + **ก่อนกลับบ้าน** (_kòon klàp báan_ – before returning home) | **น้อง** (_nóoŋ_ – younger sibling) + **รอ** (_rɔɔ_ – wait) + **ห้องสมุด** (_hông-samùt_ – library).
+4. **Context**: Coordinating meeting points when someone has an errand first.
+5. **Usage**: Common among campus peers and siblings.
+6. **Formality**: Neutral.
+7. **Daily Example**: **ถ้ายั้งงั้น ผมจะรอที่ห้องสมุดนะครับ** (_thâa yaŋ-ŋán phŏm ca rɔɔ thîi hông-samùt ná khráp_).
+8. **Synonyms**: **ถ้าอย่างนั้น** (_thâa yàaŋ-nán_).
+9. **Thai Conversational Version**: **ถ้ายั้งงั้น ผมจะรอที่ห้องสมุดนะครับ** (_thâa yaŋ-ŋán phŏm ca rɔɔ thîi hông-samùt ná khráp_).
+
+---
+
