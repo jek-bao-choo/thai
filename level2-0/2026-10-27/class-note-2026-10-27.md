@@ -3,6 +3,8 @@ Page 44 of _**Aan Khian Thai 2.pdf**_ (Lesson 7: Initial Mid Consonants and Tone
 1. **Exercise 4 Completion (Items 8–10)**: The final three vocabulary practice words for reading aloud and writing phonetic symbols (**ตัดแปะ**, **จัดแจก**, **จิ๊กโก๋**).
 2. **Exercise 5 (Reading Story: Toi & Oi / ต้อยกับอ้อย)**: A short reading comprehension story about two second-year students, Toi (**ต้อย**) and Oi (**อ้อย**), detailing their Korean and Mandarin language studies, study habits, daily commute to their dormitory, and holiday snacks.
 
+![[Screenshot_2026-10-29T08-20-24_UTC+0800@2x.png]]
+
 ---
 
 ### Part 1: Exercise 4 Continuation (Items 8–10)
