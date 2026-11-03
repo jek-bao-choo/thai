@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9fa91550d754ce58",
+        "id": "0aa832c2a3efe95f",
         "type": "tabs",
         "children": [
           {
-            "id": "85dd882b6e07d3ca",
+            "id": "80972abe5ffd9d6f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -181,14 +181,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "85dd882b6e07d3ca",
+  "active": "80972abe5ffd9d6f",
   "lastOpenFiles": [
-    "level2-0/2026-10-29/class-note-2026-10-26.md",
+    "level2-0/2026-11-03/class-notes-2026-11-03.md",
     "level2-0/Aan Khian Thai 2.pdf",
+    "level2-0/phuut thai 2.pdf",
+    "level2-0/2026-10-29/class-note-2026-10-26.md",
+    "level2-0/2026-11-03",
     "level2-0/2026-10-27/class-note-2026-10-27.md",
     "level2-0/2026-10-29",
     "level2-0/2026-10-22/Screenshot_2026-10-29T08-20-24_UTC+0800@2x.png",
-    "level2-0/phuut thai 2.pdf",
     "level2-0/2026-10-27",
     "level2-0/2026-10-22/class-notes-2026-10-22.md",
     "level2-0/2026-10-20/การบ้าน ๑ September 69.pdf",
@@ -205,7 +207,6 @@
     "level2-0/2026-10-15/class-note-2026-10-15.md",
     "level2-0/2026-10-13/class-notes-2026-10-13.md",
     "level2-0/2026-10-15",
-    "level2-0/books",
     "level2-0/2026-10-13/Screenshot_2026-10-13T20-24-50_UTC+0800.png",
     "level2-0/2026-10-13/Screenshot_2026-10-13T20-24-06_UTC+0800.png",
     "level2-0/2026-10-08/class-note-2026-10-08.md",
