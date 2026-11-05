@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "17de42151820ecbd",
+        "id": "7a1f680040361674",
         "type": "tabs",
         "children": [
           {
-            "id": "08b79bab01622941",
+            "id": "c9bcdd712a46de56",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "level2-0/2026-11-05/class-notes-2026-11-05.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "class-notes-2026-11-05"
             }
           }
         ]
@@ -181,8 +185,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "08b79bab01622941",
+  "active": "2ceda05b0f7cc5d5",
   "lastOpenFiles": [
+    "level2-0/2026-11-05/Screenshot_2026-11-05T19-34-33_UTC+0800.png",
+    "level2-0/2026-11-03/class-notes-2026-11-03.md",
+    "level2-0/2026-11-05/class-notes-2026-11-05.md",
+    "level2-0/2026-11-05",
     "level2-0/2026-10-29/class-notes-2026-10-29.md",
     "level2-0/2026-10-22/class-notes-2026-10-22.md",
     "level2-0/2026-10-27/class-notes-2026-10-27.md",
@@ -191,7 +199,6 @@
     "level2-0/2026-10-08/class-notes-2026-10-08.md",
     "level2-0/2026-10-06/class-notes-2026-10-06.md",
     "level2-0/2026-10-01/class-notes-2026-10-01.md",
-    "level2-0/2026-11-03/class-notes-2026-11-03.md",
     "level2-0/Aan Khian Thai 2.pdf",
     "level2-0/phuut thai 2.pdf",
     "level2-0/2026-11-03",
@@ -202,7 +209,6 @@
     "level2-0/2026-10-22/Screenshot_2026-10-22T20-31-32_UTC+0800.png",
     "level2-0/2026-10-22/Screenshot_2026-10-22T20-31-10_UTC+0800.png",
     "level2-0/2026-10-22",
-    "level2-0/Untitled",
     "level2-0/2026-10-20/Screenshot_2026-10-20T20-20-27_UTC+0800@2x.png",
     "level2-0/2026-10-20/Screenshot_2026-10-20T19-49-01_UTC+0800@2x.png",
     "level2-0/2026-10-20",
